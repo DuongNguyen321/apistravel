@@ -1357,7 +1357,7 @@
     }
   ],
   "gallery": [
-    {
+    {"id":1,
       "EgyptHeading": [
         { "id": 1, "text": "E", "className": "" },
         { "id": 2, "text": "G", "className": "" },
@@ -1404,7 +1404,7 @@
         }
       ]
     },
-    {
+    {"id":2,
       "HawaiiHeading": [
         { "id": 1, "text": "H", "className": "" },
         { "id": 2, "text": "A", "className": "" },
@@ -1452,7 +1452,7 @@
         }
       ]
     },
-    {
+    {"id":3,
       "HomeHeading": [
         { "id": 1, "text": "T", "className": "" },
         { "id": 2, "text": "Ổ", "className": "" },
@@ -1502,7 +1502,7 @@
         }
       ]
     },
-    {
+    {"id":4,
       "MumbaiHeading": [
         { "id": 1, "text": "M", "className": "" },
         { "id": 2, "text": "U", "className": "" },
@@ -1551,6 +1551,7 @@
       ]
     },
     {
+      "id":5,
       "ParisHeading": [
         { "id": 1, "text": "P", "className": "" },
         { "id": 2, "text": "A", "className": "" },
@@ -1598,6 +1599,7 @@
       ]
     },
     {
+      "id":6,
       "SydneyHeading": [
         { "id": 1, "text": "S", "className": "" },
         { "id": 2, "text": "Y", "className": "" },
@@ -1646,6 +1648,7 @@
       ]
     },
     {
+      "id":7,
       "TokyoHeading": [
         { "id": 1, "text": "T", "className": "" },
         { "id": 2, "text": "O", "className": "" },
