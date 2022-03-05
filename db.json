@@ -1402,7 +1402,9 @@
           "id": 9,
           "src": "./images/Egypt/gallery-img-9.jpg"
         }
-      ],
+      ]
+    },
+    {
       "HawaiiHeading": [
         { "id": 1, "text": "H", "className": "" },
         { "id": 2, "text": "A", "className": "" },
@@ -1448,7 +1450,9 @@
           "id": 9,
           "src": "./images/Hawaii/gallery-img-9.jpg"
         }
-      ],
+      ]
+    },
+    {
       "HomeHeading": [
         { "id": 1, "text": "T", "className": "" },
         { "id": 2, "text": "Ổ", "className": "" },
@@ -1496,7 +1500,9 @@
           "id": 9,
           "src": "./images/Home/g-9.jpg"
         }
-      ],
+      ]
+    },
+    {
       "MumbaiHeading": [
         { "id": 1, "text": "M", "className": "" },
         { "id": 2, "text": "U", "className": "" },
@@ -1542,7 +1548,9 @@
           "id": 9,
           "src": "./images/Mumbai/gallery-img-9.jpg"
         }
-      ],
+      ]
+    },
+    {
       "ParisHeading": [
         { "id": 1, "text": "P", "className": "" },
         { "id": 2, "text": "A", "className": "" },
@@ -1587,7 +1595,9 @@
           "id": 9,
           "src": "./images/Paris/gallery-img-9.jpg"
         }
-      ],
+      ]
+    },
+    {
       "SydneyHeading": [
         { "id": 1, "text": "S", "className": "" },
         { "id": 2, "text": "Y", "className": "" },
@@ -1633,7 +1643,9 @@
           "id": 9,
           "src": "../images/Sydney/gallery-img-9.jpg"
         }
-      ],
+      ]
+    },
+    {
       "TokyoHeading": [
         { "id": 1, "text": "T", "className": "" },
         { "id": 2, "text": "O", "className": "" },
