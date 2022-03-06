@@ -10,6 +10,12 @@
       "Book": {
         "content": "chuyến đi được bình chọn tốt nhất"
       },
+      "aboutvideo": {
+        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+      },
       "destinationBox": [
         {
           "id": 1,
@@ -236,6 +242,12 @@
       "Book": {
         "content": "kỳ nghỉ dưỡng được đánh giá cao nhất"
       },
+      "aboutvideo": {
+        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+      },
       "destinationBox": [
         {
           "id": 1,
@@ -460,6 +472,12 @@
       },
       "Book": {
         "content": "Chuyến đi được tìm kiếm nhiểu nhất"
+      },
+      "aboutvideo": {
+        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
       },
       "destinationBox": [
         {
@@ -687,6 +705,12 @@
       "Book": {
         "content": "Chuyến đi được đặt nhiều nhất"
       },
+      "aboutvideo": {
+        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+      },
       "destinationBox": [
         {
           "id": 1,
@@ -913,6 +937,12 @@
       "Book": {
         "content": "Chuyến đi có ưu đãi tốt nhất"
       },
+      "aboutvideo": {
+        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+      },
       "destinationBox": [
         {
           "id": 1,
@@ -1138,6 +1168,12 @@
       },
       "Book": {
         "content": "Chuyến đi có giá thấp nhất"
+      },
+      "aboutvideo": {
+        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
       },
       "destinationBox": [
         {
@@ -1931,18 +1967,54 @@
       { "id": 7, "text": "Ệ", "className": "" }
     ],
     "brandBox": [
-      { "id": 1, "src": "https://apiforstravel.herokuapp.com/images/Home/1.jpg" },
-      { "id": 2, "src": "https://apiforstravel.herokuapp.com/images/Home/2.jpg" },
-      { "id": 3, "src": "https://apiforstravel.herokuapp.com/images/Home/3.jpg" },
-      { "id": 4, "src": "https://apiforstravel.herokuapp.com/images/Home/4.jpg" },
-      { "id": 5, "src": "https://apiforstravel.herokuapp.com/images/Home/5.jpg" },
-      { "id": 6, "src": "https://apiforstravel.herokuapp.com/images/Home/6.jpg" },
-      { "id": 7, "src": "https://apiforstravel.herokuapp.com/images/Home/7.jpg" },
-      { "id": 8, "src": "https://apiforstravel.herokuapp.com/images/Home/8.jpg" },
-      { "id": 9, "src": "https://apiforstravel.herokuapp.com/images/Home/9.jpg" },
-      { "id": 10, "src": "https://apiforstravel.herokuapp.com/images/Home/10.jpg" },
-      { "id": 11, "src": "https://apiforstravel.herokuapp.com/images/Home/11.jpg" },
-      { "id": 12, "src": "https://apiforstravel.herokuapp.com/images/Home/12.jpg" }
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/9.jpg"
+      },
+      {
+        "id": 10,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/10.jpg"
+      },
+      {
+        "id": 11,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/11.jpg"
+      },
+      {
+        "id": 12,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/12.jpg"
+      }
     ]
   }
 }
