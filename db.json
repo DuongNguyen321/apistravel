@@ -2064,6 +2064,7 @@
       { "id": 7, "text": "Ợ", "className": "" },
       { "id": 8, "text": "P", "className": "" }
     ],
+    "Homelink": "/",
     "HomeBox": [
       {
         "id": 1,
@@ -2109,6 +2110,7 @@
       { "id": 4, "text": "P", "className": "" },
       { "id": 5, "text": "T", "className": "" }
     ],
+    "Egyptlink": "/egypt",
     "EgyptBox": [
       {
         "id": 1,
@@ -2155,6 +2157,8 @@
       { "id": 5, "text": "I", "className": "" },
       { "id": 6, "text": "I", "className": "" }
     ],
+    "Hawaiilink": "/hawaii",
+
     "HawaiiBox": [
       {
         "id": 1,
@@ -2201,6 +2205,8 @@
       { "id": 5, "text": "A", "className": "" },
       { "id": 6, "text": "I", "className": "" }
     ],
+    "Mumbailink": "/mumbai",
+
     "MumbaiBox": [
       {
         "id": 1,
@@ -2246,6 +2252,8 @@
       { "id": 4, "text": "I", "className": "" },
       { "id": 5, "text": "S", "className": "" }
     ],
+    "Parislink": "/paris",
+
     "ParisBox": [
       {
         "id": 1,
@@ -2292,6 +2300,8 @@
       { "id": 5, "text": "E", "className": "" },
       { "id": 6, "text": "Y", "className": "" }
     ],
+    "Sydneylink": "/sydney",
+
     "SydneyBox": [
       {
         "id": 1,
@@ -2337,6 +2347,8 @@
       { "id": 4, "text": "Y", "className": "" },
       { "id": 5, "text": "O", "className": "" }
     ],
+    "Tokyolink": "/tokyo",
+
     "TokyoBox": [
       {
         "id": 1,
