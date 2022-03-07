@@ -1,2379 +1,2381 @@
-{
-  "pages": [
-    {
-      "id": 1,
-      "home": {
-        "name": "Egypt",
-        "content": "vùng đất của Pharaohs",
-        "textcontent": " Egypt là một trong những quốc gia lâu đời nhất trên thế giới. Đây là nơi người Ai Cập cổ đại đã xây dựng một nền văn minh vĩ đại trong thung lũng sông Nile, với rất nhiều đền thờ, cổ vật và những tàn tích ngoạn mục đáng để bạn khám phá"
+[
+  {
+    "pages": [
+      {
+        "id": 1,
+        "home": {
+          "name": "Egypt",
+          "content": "vùng đất của Pharaohs",
+          "textcontent": " Egypt là một trong những quốc gia lâu đời nhất trên thế giới. Đây là nơi người Ai Cập cổ đại đã xây dựng một nền văn minh vĩ đại trong thung lũng sông Nile, với rất nhiều đền thờ, cổ vật và những tàn tích ngoạn mục đáng để bạn khám phá"
+        },
+        "Book": {
+          "content": "chuyến đi được bình chọn tốt nhất"
+        },
+        "reviewuser": {
+          "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+          "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+          "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+          "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        },
+        "aboutvideo": {
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+          "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        },
+        "destinationBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-1.jpg",
+            "h3": "Kim tự tháp Giza",
+            "p": "Kim tự tháp Giza là một trong Bảy kỳ quan thế giới cổ đại"
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-2.jpg",
+            "h3": "Đền karnak của Luxor",
+
+            "p": "Thung lũng của các vị vua, Đền Karnak, và Đền tưởng niệm Hatshepsut"
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-3.jpg",
+            "h3": "Hồi giáo Cario",
+
+            "p": "đầy đủ các nhà thờ Hồi giáo,trường học Hồi giáo và các di tích cổ đại"
+          },
+          {
+            "id": 4,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-4.jpg",
+            "h3": "Aswan",
+
+            "p": "Thị trấn yên bình nhất của Ai Cập, đặt trên những đường cong của sông Nile"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-5.jpg",
+            "h3": "Abu simbel",
+
+            "p": "Nổi tiếng với tỷ lệ megalithic và được biết đến với ngôi đền của Ramses II"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-6.jpg",
+            "h3": "Bảo tàng Egyptian",
+
+            "p": "Bảo tàng Ai Cập của Cairo là một trong những bộ sưu tập bảo tàng tuyệt vời của thế giới"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-7.jpg",
+            "h3": "Sa mạc trắng",
+
+            "p": "Kỳ quan tự nhiên Sa mạc Trắng trông giống như một vùng đất hoang tuyết ở giữa cát khô cằn"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-8.jpg",
+            "h3": "Siwa Oasis",
+
+            "p": "Siwa là loại thuốc bổ yên tĩnh đến sự hối hả của các thành phố Ai Cập và là một trong những địa điểm đẹp nhất của Tây Sa mạc"
+          }
+        ],
+        "Destination": {
+          "content": "Những điểm đến ở Egypt",
+          "title": "Những điểm du lịch bậc nhất"
+        },
+        "servicesBox": [
+          {
+            "id": 1,
+            "icon": "fas fa-globe",
+            "h3": "Rộng khắp thế giới"
+          },
+          {
+            "id": 2,
+            "icon": "fas fa-hiking",
+            "h3": "Những cuộc phiêu lưu"
+          },
+          {
+            "id": 3,
+            "icon": "fas fa-utensils",
+            "h3": "Dịch vụ ăn uống"
+          },
+          {
+            "id": 4,
+            "icon": "fas fa-hotel",
+            "h3": "Nghỉ dưỡng cao cấp"
+          },
+          {
+            "id": 5,
+            "icon": "fas fa-wallet",
+            "h3": "Mức giá tốt nhất"
+          },
+          {
+            "id": 6,
+            "icon": "fas fa-headset",
+            "h3": "Hỗ trợ 24/7"
+          }
+        ],
+        "Services": {
+          "content": "Dịch vụ",
+          "title": "Nâng cao trải nghiệm"
+        },
+        "galleryBox": [
+          {
+            "id": 1,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-1.jpg",
+            "span": "Thị trấn Dusty Abydos",
+            "h3": "Đền Abydos"
+          },
+          {
+            "id": 2,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-2.jpg",
+            "span": "Trung tâm Ai Cập",
+            "h3": "Nam Sinai"
+          },
+          {
+            "id": 3,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-3.jpg",
+            "span": "Chân núi Sinai",
+            "h3": "Nam Sinai"
+          },
+          {
+            "id": 4,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-4.jpg",
+            "span": "Alexandria",
+            "h3": "Thành phố Alexandria"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-5.jpg",
+            "span": "Tây sa mạc",
+            "h3": "Siwa Oasis"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-6.jpg",
+            "span": "Bắc Farafra Oasis",
+            "h3": "Sa mạc trắng"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-7.jpg",
+            "span": "Cario",
+            "h3": "Bảo tàng Egyptian"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-8.jpg",
+            "span": "Nam Ai Cập",
+            "h3": "Abu simbel"
+          },
+          {
+            "id": 9,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-9.jpg",
+            "span": "Quận hồi giáo",
+            "h3": "Hổi Giáo Cario"
+          }
+        ],
+        "Gallery": {
+          "content": "những bức Ảnh về Egypt"
+        },
+        "blogBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/blog-1.jpg",
+            "a": "Mang những gì khi đi Egypt",
+            "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/blog-2.jpg",
+            "a": "Xin visa đi Egypt",
+            "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/blog-3.jpg",
+            "a": "Phương tiện di chuyển",
+            "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+          }
+        ],
+        "Blog": {
+          "content": "blogs & posts",
+          "title": "Tìm hiểu thêm về Egypt"
+        },
+        "ReviewBox": [
+          {
+            "id": 1,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 2,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 3,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 4,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+            "h3": "Some text..."
+          }
+        ],
+        "banner": {
+          "content": "Cùng STravel",
+          "title": "Bắt đầu chuyến đi của bạn",
+          "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+        }
       },
-      "Book": {
-        "content": "chuyến đi được bình chọn tốt nhất"
+      {
+        "id": 2,
+        "home": {
+          "name": "Hawaii",
+          "content": "Hòn ngọc của thái bình dương",
+          "textcontent": " Địa danh này là một quần thể các đảo hoang sơ giữa Thái Bình Dương mà nổi bật nhất là các đảo Oahu, Maui, Big island…trong đó đảo Oahu là nơi có nhiều người sinh sống nhất và cũng là trung tâm du lịch. Hawaii nổi tiếng nhờ các bãi tắm dài và đẹp với nước biển trong xanh. Du khách đến Hawaii là để nghỉ dưỡng, xem mặt trời mọc, mặt trời lặn và văn hóa của các thổ dân đa đảo"
+        },
+        "Book": {
+          "content": "kỳ nghỉ dưỡng được đánh giá cao nhất"
+        },
+        "reviewuser": {
+          "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+          "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+          "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+          "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        },
+        "aboutvideo": {
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+          "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        },
+        "destinationBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-1.jpg",
+            "h3": "Bãi biển Waikiki",
+            "p": "lý tưởng cho những hoạt động dưới nước như: surfing, stand-up paddle, boogie board, chèo ca-nô đồng đội..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-2.jpg",
+            "h3": "đảo Oahu",
+
+            "p": "cực kỳ đáng tiếc nếu tới Oahu mà không ngâm mình dưới nước thư giãn và khám phá thế giới đại dương bao la rực rỡ"
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-3.jpg",
+            "h3": "Trân Châu Cảng",
+
+            "p": "di tích lịch sử cấp Quốc gia, thu hút hơn 2 triệu lượt khách du khách đến tham quan mỗi năm."
+          },
+          {
+            "id": 4,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-4.jpg",
+            "h3": "Công viên Na Pali Coast",
+            "p": "Nếu đã xem bộ phim Jurassic Park, bạn sẽ nhận ra vách đá hình từng xuất hiện trong cảnh quay của phim"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-5.jpg",
+            "h3": "Công viên núi lửa Hawaii",
+
+            "p": "cùng chiêm ngưỡng hai trong số những ngọn núi lửa lớn nhất hành tinh vẫn còn đang hoạt động"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-6.jpg",
+            "h3": "Vườn quốc gia Haleakala",
+
+            "p": "Tâm điểm của vườn quốc gia chính là ngọn núi lửa Haleakala cao 3048 mét đã ngừng hoạt động"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-7.jpg",
+            "h3": "kona Coffee Farms",
+
+            "p": "trải nghiệm tự tay thu hoạch, chế biến cafe và thưởng thức hương vị của loại cafe hảo hạng nhất thế giới"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-8.jpg",
+            "h3": "Cung điện Iolani",
+
+            "p": "Nơi đâu được xem là một trong những cung điện đẹp nhất trên thế giới. Cũng là cung điện Hoàng Gia duy nhất của Hawaii"
+          }
+        ],
+        "Destination": {
+          "content": "Những điểm đến ở Hawaii",
+          "title": "Những điểm du lịch bậc nhất"
+        },
+        "servicesBox": [
+          {
+            "id": 1,
+            "icon": "fas fa-globe",
+            "h3": "Rộng khắp thế giới"
+          },
+          {
+            "id": 2,
+            "icon": "fas fa-hiking",
+            "h3": "Những cuộc phiêu lưu"
+          },
+          {
+            "id": 3,
+            "icon": "fas fa-utensils",
+            "h3": "Dịch vụ ăn uống"
+          },
+          {
+            "id": 4,
+            "icon": "fas fa-hotel",
+            "h3": "Nghỉ dưỡng cao cấp"
+          },
+          {
+            "id": 5,
+            "icon": "fas fa-wallet",
+            "h3": "Mức giá tốt nhất"
+          },
+          {
+            "id": 6,
+            "icon": "fas fa-headset",
+            "h3": "Hỗ trợ 24/7"
+          }
+        ],
+        "Services": {
+          "content": "Dịch vụ",
+          "title": "Nâng cao trải nghiệm"
+        },
+        "galleryBox": [
+          {
+            "id": 1,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-1.jpg",
+            "span": "Kailua",
+            "h3": "Bờ biển Kailua"
+          },
+          {
+            "id": 2,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-2.jpg",
+            "span": "Paradise Cove.",
+            "h3": "trình diễn múa lửa"
+          },
+          {
+            "id": 3,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-3.jpg",
+            "span": "Hawaii",
+            "h3": "Công viên quốc gia"
+          },
+          {
+            "id": 4,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-4.jpg",
+            "span": "Oahu",
+            "h3": "North shore"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-5.jpg",
+            "span": "Hawaii",
+            "h3": "Bãi biển Waikiki"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-6.jpg",
+            "span": "Hawaii",
+            "h3": "vườn quốc gia Haleakala"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-7.jpg",
+            "span": "dọc bờ biển Hamakua",
+            "h3": "Hành lang di sản Hamakua"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-8.jpg",
+            "span": "phía đông thành phố Hawaii",
+            "h3": "Mauna kea"
+          },
+          {
+            "id": 9,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-9.jpg",
+            "span": "đảo Oahu",
+            "h3": "Thác nước"
+          }
+        ],
+        "Gallery": {
+          "content": "những bức Ảnh về Hawaii"
+        },
+        "blogBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/blog-1.jpg",
+            "a": "Mang những gì khi đi Hawaii",
+            "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/blog-2.jpg",
+            "a": "Xin visa đi Hawaii",
+            "p": "Visa ở đây không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/blog-3.jpg",
+            "a": "Phương tiện di chuyển",
+            "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+          }
+        ],
+        "Blog": {
+          "content": "blogs & posts",
+          "title": "Tìm hiểu thêm về Hawaii"
+        },
+        "ReviewBox": [
+          {
+            "id": 1,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 2,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 3,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 4,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
+            "h3": "Some text..."
+          }
+        ],
+        "banner": {
+          "content": "Cùng STravel",
+          "title": "Bắt đầu chuyến đi của bạn",
+          "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+        }
       },
-      "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+      {
+        "id": 3,
+        "home": {
+          "name": "Mumbai",
+          "content": "Thành phố có tất cả",
+          "textcontent": " Mumbai không chỉ là trung tâm tài chính – kinh tế, kinh đô điện ảnh – thời trang của Ấn Độ, mà đây còn là thành phố cảng vừa hiện đại nhưng vẫn mang nhiều nét cổ kính với những công trình kiến trúc, quán bar, nhà hàng, viện bảo tàng và các cửa hàng thời trang hấp dẫn…"
+        },
+        "Book": {
+          "content": "Chuyến đi được tìm kiếm nhiểu nhất"
+        },
+        "reviewuser": {
+          "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+          "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+          "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+          "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        },
+        "aboutvideo": {
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+          "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        },
+        "destinationBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-1.jpg",
+            "h3": "Ấn Độ môn",
+            "p": "được xây dựng vào năm 1931, còn có tên gọi khác là bia kỷ niệm chiến sĩ Ấn Độ"
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-2.jpg",
+            "h3": "Tòa nhà hình trứng",
+
+            "p": " nghệ thuật kiến trúc thị giác kết hợp với cách sản xuất, sử dụng và tái tạo năng lượng thông minh"
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-3.jpg",
+            "h3": "Vườn quốc gia Sanjay Gandhi",
+
+            "p": "bao gồm loài bướm đêm Atlas – bướm đêm lớn nhất thế giới, cây hoa Karvi 7 năm nở hoa một lần…"
+          },
+          {
+            "id": 4,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-4.jpg",
+            "h3": "Trung tâm triễn lãm Jehanggir",
+
+            "p": "khu vực triển lãm hàng đầu ở Mumbai dành cho nền mỹ thuật Ấn Độ đương đại"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-5.jpg",
+            "h3": "Hang động Elephanta",
+
+            "p": "lưu giữ nhiều kiến trúc chạm khắc tinh xảo và chúng đã xuất hiện ở đây từ thế kỷ thứ 5 đến thứ 8"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-6.jpg",
+            "h3": "Lonavala và Khandala",
+
+            "p": " khu nghỉ dưỡng rất nổi tiếng, nằm giữa đường cao tốc Mumbai – Pune."
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-7.jpg",
+            "h3": "Thành phố Pune",
+
+            "p": "Giáo dục, nghệ thuật và âm nhạc là trọng tâm tại thành phố có nền văn hóa phong phú lâu đời này"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-8.jpg",
+            "h3": "Thành phố Nashik",
+
+            "p": "là trung tâm hành hương lớn của người Hindu. Nashik có sự pha trộn của nét cổ xưa và hiện đại"
+          }
+        ],
+        "Destination": {
+          "content": "Những điểm đến ở Mumbai",
+          "title": "Những điểm du lịch bậc nhất"
+        },
+        "servicesBox": [
+          {
+            "id": 1,
+            "icon": "fas fa-globe",
+            "h3": "Rộng khắp thế giới"
+          },
+          {
+            "id": 2,
+            "icon": "fas fa-hiking",
+            "h3": "Những cuộc phiêu lưu"
+          },
+          {
+            "id": 3,
+            "icon": "fas fa-utensils",
+            "h3": "Dịch vụ ăn uống"
+          },
+          {
+            "id": 4,
+            "icon": "fas fa-hotel",
+            "h3": "Nghỉ dưỡng cao cấp"
+          },
+          {
+            "id": 5,
+            "icon": "fas fa-wallet",
+            "h3": "Mức giá tốt nhất"
+          },
+          {
+            "id": 6,
+            "icon": "fas fa-headset",
+            "h3": "Hỗ trợ 24/7"
+          }
+        ],
+        "Services": {
+          "content": "Dịch vụ",
+          "title": "Nâng cao trải nghiệm"
+        },
+        "galleryBox": [
+          {
+            "id": 1,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-1.jpg",
+            "span": "thành phố Mumbai",
+            "h3": "vườn quốc gia Sanjay Gandhi"
+          },
+          {
+            "id": 2,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-2.jpg",
+            "span": "",
+            "h3": "Nhà Thờ St John The Evangelist"
+          },
+          {
+            "id": 3,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-3.jpg",
+            "span": "trên đỉnh ngọn đồi Malabar ở Mumbai",
+            "h3": "Vườn treo Mumbai"
+          },
+          {
+            "id": 4,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-4.jpg",
+            "span": "Bảo tàng viện của thành phố Mumbai",
+            "h3": "Dr. Bhau Daji Lad"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-5.jpg",
+            "span": "di sản thế giới được UNESCO nhìn nhận.",
+            "h3": "Tòa đô chánh Mumbai"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-6.jpg",
+            "span": "Mumbai",
+            "h3": "kiến trúc thời Victoria"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-7.jpg",
+            "span": "Khách sạn 5 sao ở Mumbai",
+            "h3": "Khách sạn Taj Mahal"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-8.jpg",
+            "span": "phía đông thành phố Mumbai",
+            "h3": "Hang động Elephanta"
+          },
+          {
+            "id": 9,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-9.jpg",
+            "span": "Mumbai",
+            "h3": "phiên chợ địa phương"
+          }
+        ],
+        "Gallery": {
+          "content": "những bức Ảnh về Mumbai"
+        },
+        "blogBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/blog-1.jpg",
+            "a": "Mang những gì khi đi Mumbai",
+            "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/blog-2.jpg",
+            "a": "Xin visa đi Mumbai",
+            "p": "Visa ở đây không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/blog-3.jpg",
+            "a": "Phương tiện di chuyển",
+            "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+          }
+        ],
+        "Blog": {
+          "content": "blogs & posts",
+          "title": "Tìm hiểu thêm về Mumbai"
+        },
+        "ReviewBox": [
+          {
+            "id": 1,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 2,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 3,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 4,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
+            "h3": "Some text..."
+          }
+        ],
+        "banner": {
+          "content": "Cùng STravel",
+          "title": "Bắt đầu chuyến đi của bạn",
+          "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+        }
       },
-      "aboutvideo": {
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
-        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+      {
+        "id": 4,
+        "home": {
+          "name": "Paris",
+          "content": "Kinh đô thời trang",
+          "textcontent": "Paris là một vùng đất của nghệ thuật và nghệ sĩ. Thành phố đầy những di tích có tầm quan trọng trong lịch sử của thành phố và thế giới. Lịch sử phong phú của thành phố này thu hút rất nhiều những người đam mê khảo cổ và những người yêu thích kiến trúc. Một số di tích kiến trúc nổi tiếng là Boulevard Montmartre được xây dựng vào năm 1897, Basilique du Sacré-Cœur ở Montmartre, bảo tàng Louvre nổi tiếng,Panthéon…"
+        },
+        "Book": {
+          "content": "Chuyến đi được đặt nhiều nhất"
+        },
+        "reviewuser": {
+          "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+          "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+          "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+          "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        },
+        "aboutvideo": {
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+          "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        },
+        "destinationBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-1.jpg",
+            "h3": "Tháp Eiffel",
+            "p": "Một trong những phần tốt nhất của toà tháp là tầm nhìn toàn cảnh ở trên đỉnh"
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-2.jpg",
+            "h3": "Nhà Thờ Đức Bà",
+
+            "p": "Đây là một trong những công trình kiến trúc điển hình đc thiết kế theo phong cách Gothic Pháp"
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-3.jpg",
+            "h3": "Bảo tàng Louvre",
+
+            "p": "Bảo tàng Louvre là bảo tàng nghệ thật được ghé thăm nhiều nhất trên thế giới"
+          },
+          {
+            "id": 4,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-4.jpg",
+            "h3": "Đại lộ Champs Elysées",
+
+            "p": "Louis Vuitton, Cartier, Guerlain, Montblanc… và nhà hàng nổi tiếng đều nằm trên đại lộ này."
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-5.jpg",
+            "h3": "Công viên Disneyland",
+
+            "p": "Người hâm một của nhân vật hoạt hình Mickey rất thích ghé thăm công viên Disneyland"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-6.jpg",
+            "h3": "Montmartre",
+
+            "p": "Địa danh nổi tiếng nhất của Montmartre có lẽ là Vương cung Thánh đường Sacré-Cœur nằm ở trên đỉnh đồi"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-7.jpg",
+            "h3": "Cung điện Versailles",
+
+            "p": "Versailles là lâu đài nổi tiếng nhất ở Pháp và biểu tượng của quyền lực tối thượng thời đại phong kiến"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/des-8.jpg",
+            "h3": "Moulin Rouge",
+
+            "p": "Moulin Rouge là một quán rượu được biết đến như quê hương của điệu nhảy Cancan nổi tiếng"
+          }
+        ],
+        "Destination": {
+          "content": "Những điểm đến ở Paris",
+          "title": "Những điểm du lịch bậc nhất"
+        },
+        "servicesBox": [
+          {
+            "id": 1,
+            "icon": "fas fa-globe",
+            "h3": "Rộng khắp thế giới"
+          },
+          {
+            "id": 2,
+            "icon": "fas fa-hiking",
+            "h3": "Những cuộc phiêu lưu"
+          },
+          {
+            "id": 3,
+            "icon": "fas fa-utensils",
+            "h3": "Dịch vụ ăn uống"
+          },
+          {
+            "id": 4,
+            "icon": "fas fa-hotel",
+            "h3": "Nghỉ dưỡng cao cấp"
+          },
+          {
+            "id": 5,
+            "icon": "fas fa-wallet",
+            "h3": "Mức giá tốt nhất"
+          },
+          {
+            "id": 6,
+            "icon": "fas fa-headset",
+            "h3": "Hỗ trợ 24/7"
+          }
+        ],
+        "Services": {
+          "content": "Dịch vụ",
+          "title": "Nâng cao trải nghiệm"
+        },
+        "galleryBox": [
+          {
+            "id": 1,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-1.jpg",
+            "span": "Normandie, Pháp",
+            "h3": "Đảo Mont Saint-Michel"
+          },
+          {
+            "id": 2,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-2.jpg",
+            "span": "Đấu trường La Mã",
+            "h3": "Nimes Arena"
+          },
+          {
+            "id": 3,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-3.jpg",
+            "span": "Languedoc-Roussillon, Pháp",
+            "h3": "pháo đài cổ Carcassonne"
+          },
+          {
+            "id": 4,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-4.jpg",
+            "span": "Cây cầu xưa mang tính biểu tượng",
+            "h3": "Cầu Pont du gard"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-5.jpg",
+            "span": "Chiến trường Chiến tranh thế giới lần thứ nhất",
+            "h3": "Hào quang Trận Somme"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-6.jpg",
+            "span": "Nơi ăn ảnh nhất nước pháp",
+            "h3": "dãy núi Alps"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-7.jpg",
+            "span": "Nằm giữa biên giới của Pháp với Italy",
+            "h3": "Mont Blanc"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-8.jpg",
+            "span": "Provence",
+            "h3": "Đồng hoa Oải Hương"
+          },
+          {
+            "id": 9,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-9.jpg",
+            "span": "Thủ đô chính trị và toà án Hoàng Gia",
+            "h3": "Château de Versailles"
+          }
+        ],
+        "Gallery": {
+          "content": "những bức Ảnh về Paris"
+        },
+        "blogBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-1.jpg",
+            "a": "Mang những gì khi đi Paris",
+            "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-2.jpg",
+            "a": "Xin visa đi Paris",
+            "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-3.jpg",
+            "a": "Phương tiện di chuyển",
+            "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+          }
+        ],
+        "Blog": {
+          "content": "blogs & posts",
+          "title": "Tìm hiểu thêm về Paris"
+        },
+        "ReviewBox": [
+          {
+            "id": 1,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 2,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 3,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 4,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
+            "h3": "Some text..."
+          }
+        ],
+        "banner": {
+          "content": "Cùng STravel",
+          "title": "Bắt đầu chuyến đi của bạn",
+          "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+        }
       },
-      "destinationBox": [
+      {
+        "id": 5,
+        "home": {
+          "name": "Sydney",
+          "content": "xứ sở chuột túi",
+          "textcontent": " Sydney là nơi mà đâu đâu cũng có những công trình kiến trúc nguy nga, đồ sộ, thế giới bảo tàng, công viên xanh, những khu vui chơi giải trí hiện đại và cả biển nữa. Quá nhiều điều thú vị vậy thì du lịch Sydney nên đi đâu? Dưới đây là những điểm check-in đẹp nhất mang đậm hơi thở Sydney nói riêng và nước Úc nói chung"
+        },
+        "Book": {
+          "content": "Chuyến đi có ưu đãi tốt nhất"
+        },
+        "reviewuser": {
+          "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+          "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+          "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+          "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        },
+        "aboutvideo": {
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+          "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        },
+        "destinationBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-1.jpg",
+            "h3": "Sydney Opera House",
+            "p": "Đây là công trình biểu tượng đỉnh cao của Sydney nói riêng và toàn nước Úc nói chung"
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-2.jpg",
+            "h3": "Cầu Sydney Harbour",
+
+            "p": "Đây là cây cầu thép lớn nhất thế giới, một trong những biểu tượng của xứ sở chuột túi"
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-3.jpg",
+            "h3": "Tháp Sydney",
+
+            "p": "Công trình cao nhất trong thành phố. Toạ lạc tại trung tâm thương mại Piit St"
+          },
+          {
+            "id": 4,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-4.jpg",
+            "h3": "Khu phố cổ The Rocks",
+
+            "p": "được ví von là “quá khứ và hiện tại hội tụ hoàn hảo của Sydney”"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-5.jpg",
+            "h3": "Quán bia “Lord Nelson”",
+
+            "p": "quán bia xua thật xưa với phong cách cảu người lính,thuỷ thủ và công nhân những năm 1800"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-6.jpg",
+            "h3": "Darling Harbour",
+
+            "p": "hầu hết, khách di lịch cá nhân hoặc đi theo tour đều chọn điểm dừng chân là khu giải trí tại trung tâm Sydney này"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-7.jpg",
+            "h3": "Nhà thờ St Mary",
+
+            "p": "nơi ở của Đức Tổng Giá mục Sydney, đứng đầu trong danh sách các nhà nguyện công giáo đầu tiên tại nước Úc"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-8.jpg",
+            "h3": "Government House",
+
+            "p": "nằm trong vườn Bách thảo Hoàng Gia vói một khu vườn xinh đẹp theo kiểu Anh Quốc bao bọc xung quanh"
+          }
+        ],
+        "Destination": {
+          "content": "Những điểm đến ở Sydney",
+          "title": "Những điểm du lịch bậc nhất"
+        },
+        "servicesBox": [
+          {
+            "id": 1,
+            "icon": "fas fa-globe",
+            "h3": "Rộng khắp thế giới"
+          },
+          {
+            "id": 2,
+            "icon": "fas fa-hiking",
+            "h3": "Những cuộc phiêu lưu"
+          },
+          {
+            "id": 3,
+            "icon": "fas fa-utensils",
+            "h3": "Dịch vụ ăn uống"
+          },
+          {
+            "id": 4,
+            "icon": "fas fa-hotel",
+            "h3": "Nghỉ dưỡng cao cấp"
+          },
+          {
+            "id": 5,
+            "icon": "fas fa-wallet",
+            "h3": "Mức giá tốt nhất"
+          },
+          {
+            "id": 6,
+            "icon": "fas fa-headset",
+            "h3": "Hỗ trợ 24/7"
+          }
+        ],
+        "Services": {
+          "content": "Dịch vụ",
+          "title": "Nâng cao trải nghiệm"
+        },
+        "galleryBox": [
+          {
+            "id": 1,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-1.jpg",
+            "span": "Brisbane, Úc",
+            "h3": "Tòa nhà lịch sử Customs House"
+          },
+          {
+            "id": 2,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-2.jpg",
+            "span": "Bảo tàng Mỹ thuật Ứng dụng và Khoa học",
+            "h3": "Power House"
+          },
+          {
+            "id": 3,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-3.jpg",
+            "span": "nằm trên đỉnh ngọn đồi Malabar ở Sydney",
+            "h3": "Vườn bách thảo Hoàng gia"
+          },
+          {
+            "id": 4,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-4.jpg",
+            "span": "phía tây Sydney",
+            "h3": "Vườn Quốc gia Blue Mountains"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-5.jpg",
+            "span": "giữa lòng thành phố Sydney",
+            "h3": "Công viên Hyde"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-6.jpg",
+            "span": "bãi biển nổi tiếng nhất nước Úc",
+            "h3": "Bãi biển Manly"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-7.jpg",
+            "span": "bãi biển nổi tiếng nhất nước Úc",
+            "h3": "Bãi biển Bondi"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-8.jpg",
+            "span": "gần cảng Sydney",
+            "h3": "Vườn bách thú Taronga"
+          },
+          {
+            "id": 9,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-9.jpg",
+            "span": "The Rocks, úc",
+            "h3": "Rocks Discovery Museum"
+          }
+        ],
+        "Gallery": {
+          "content": "những bức Ảnh về Sydney"
+        },
+        "blogBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-1.jpg",
+            "a": "Mang những gì khi đi Sydney",
+            "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-2.jpg",
+            "a": "Xin visa đi Sydney",
+            "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-3.jpg",
+            "a": "Phương tiện di chuyển",
+            "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+          }
+        ],
+        "Blog": {
+          "content": "blogs & posts",
+          "title": "Tìm hiểu thêm về Sydney"
+        },
+        "ReviewBox": [
+          {
+            "id": 1,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 2,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 3,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 4,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
+            "h3": "Some text..."
+          }
+        ],
+        "banner": {
+          "content": "Cùng STravel",
+          "title": "Bắt đầu chuyến đi của bạn",
+          "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+        }
+      },
+      {
+        "id": 6,
+        "home": {
+          "name": "Tokyo",
+          "content": "Truyền thống và tương lai",
+          "textcontent": "Thủ đô Tokyo không chỉ là linh hồn của đất nước măt trời mọc mà còn được đánh giá là một trong những thành phố lớn nhất,hiện đại phát triển bậc nhất và đông đúc nhất trên thế giới. Với nhịp sống hối hả của người dân, đến với thủ đô tuyệt vời này, du khách sẽ được cảm nhận sự sôi động trong mỗi khoảnh khắc, mỗi một con đường, hết sức thích hợp cho những vị khách từ phương xa đam mê du lịch khám phá một vùng đất mới năng đọng và hiện đại"
+        },
+        "Book": {
+          "content": "Chuyến đi có giá thấp nhất"
+        },
+        "reviewuser": {
+          "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+          "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+          "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+          "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        },
+        "aboutvideo": {
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
+          "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
+          "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        },
+        "destinationBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-1.jpg",
+            "h3": "Công viên Yoyogi",
+            "p": "công viên lớn nhất Tokyo với những bãi cỏ xanh mướt, rộng và hồ nước xinh đẹp"
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-2.jpg",
+            "h3": "Đền thờ Meiji",
+
+            "p": "Nếu đến đây vào sáng chủ nhật, bạn sẽ được xem lễ rước đám cưới theo truyền thống Nhật Bản"
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-3.jpg",
+            "h3": "Chợ cá Tsukiji",
+
+            "p": "Chợ cá Tsukiji là khu chợ cá sầm uất và lớn nhất thế giới với diện tích trên 220.000m2 và 1677 gian hàng"
+          },
+          {
+            "id": 4,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-4.jpg",
+            "h3": "Shinjuku Gyoen",
+
+            "p": "Vườn quốc gia Shinjuku Gyoen là một trong những không gian xanh đẹp nhất Tokyo"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-5.jpg",
+            "h3": "Nhà thi đấu Sumo",
+
+            "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-6.jpg",
+            "h3": "Bảo tàng Yayoi Kusama",
+
+            "p": "đậm chất Avant Garde với những trái bí kì quái, gương vô tận và ngập tràn chấm bi huyền ảo"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-7.jpg",
+            "h3": "Sở thú Ueno",
+
+            "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-8.jpg",
+            "h3": "Odaiba",
+
+            "p": "khu phố nhỏ nằm trên Vịnh Tokyo Đây là trung tâm giải trí, kiến ​​trúc và ẩm thực tuyệt vời của thành phố"
+          }
+        ],
+        "Destination": {
+          "content": "Những điểm đến ở Tokyo",
+          "title": "Những điểm du lịch bậc nhất"
+        },
+        "servicesBox": [
+          {
+            "id": 1,
+            "icon": "fas fa-globe",
+            "h3": "Rộng khắp thế giới"
+          },
+          {
+            "id": 2,
+            "icon": "fas fa-hiking",
+            "h3": "Những cuộc phiêu lưu"
+          },
+          {
+            "id": 3,
+            "icon": "fas fa-utensils",
+            "h3": "Dịch vụ ăn uống"
+          },
+          {
+            "id": 4,
+            "icon": "fas fa-hotel",
+            "h3": "Nghỉ dưỡng cao cấp"
+          },
+          {
+            "id": 5,
+            "icon": "fas fa-wallet",
+            "h3": "Mức giá tốt nhất"
+          },
+          {
+            "id": 6,
+            "icon": "fas fa-headset",
+            "h3": "Hỗ trợ 24/7"
+          }
+        ],
+        "Services": {
+          "content": "Dịch vụ",
+          "title": "Nâng cao trải nghiệm"
+        },
+        "galleryBox": [
+          {
+            "id": 1,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg",
+            "span": "ngôi đền cổ nhất Tokyo",
+            "h3": "Đền Sensoji"
+          },
+          {
+            "id": 2,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg",
+            "span": "Đền Meiji",
+            "h3": "Ngôi đền nổi tiếng nhất của Nhật Bản"
+          },
+          {
+            "id": 3,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg",
+            "span": "nơi ở của Hoàng gia Nhật Bản",
+            "h3": "Cung điện hoàng gia Tokyo"
+          },
+          {
+            "id": 4,
+
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg",
+            "span": "tầng quan sát phóng tầm nhìn ra cả thành phố",
+            "h3": "tháp truyền hình Tokyo"
+          },
+          {
+            "id": 5,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg",
+            "span": "Shibuya là khu vực sầm uất nhất của Tokyo",
+            "h3": "Quảng trường Shibuya"
+          },
+          {
+            "id": 6,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg",
+            "span": "cái nôi của phong cách thời trang CHẤT nhất Nhật Bản",
+            "h3": "Harajuku"
+          },
+          {
+            "id": 7,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg",
+            "span": "Ai nói đi Mỹ mới có hình tượng Nữ Thần Tự Do?",
+            "h3": "Odaiba – Vịnh Tokyo"
+          },
+          {
+            "id": 8,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg",
+            "span": "khu chợ hải sản thuộc hàng lớn nhất thế giới",
+            "h3": "Chợ cá Tsukiji"
+          },
+          {
+            "id": 9,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg",
+            "span": "Disneyland của Nhật Bản",
+            "h3": "Tokyo Disneysea"
+          }
+        ],
+        "Gallery": {
+          "content": "những bức Ảnh về Tokyo"
+        },
+        "blogBox": [
+          {
+            "id": 1,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-1.jpg",
+            "a": "Mang những gì khi đi Tokyo",
+            "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          },
+          {
+            "id": 2,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-2.jpg",
+            "a": "Xin visa đi Tokyo",
+            "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          },
+          {
+            "id": 3,
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-3.jpg",
+            "a": "Phương tiện di chuyển",
+            "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+          }
+        ],
+        "Blog": {
+          "content": "blogs & posts",
+          "title": "Tìm hiểu thêm về Tokyo"
+        },
+        "ReviewBox": [
+          {
+            "id": 1,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 2,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 3,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+            "h3": "Some text..."
+          },
+          {
+            "id": 4,
+            "p": "Some test",
+            "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+            "h3": "Some text..."
+          }
+        ],
+        "banner": {
+          "content": "Cùng STravel",
+          "title": "Bắt đầu chuyến đi của bạn",
+          "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+        }
+      }
+    ],
+    "home": {
+      "homeControls": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-1.jpg",
-          "h3": "Kim tự tháp Giza",
-          "p": "Kim tự tháp Giza là một trong Bảy kỳ quan thế giới cổ đại"
+          "className": "vid-btn active",
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-2.jpg",
-          "h3": "Đền karnak của Luxor",
-
-          "p": "Thung lũng của các vị vua, Đền Karnak, và Đền tưởng niệm Hatshepsut"
+          "className": "vid-btn",
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-3.jpg",
-          "h3": "Hồi giáo Cario",
-
-          "p": "đầy đủ các nhà thờ Hồi giáo,trường học Hồi giáo và các di tích cổ đại"
+          "className": "vid-btn",
+          "src": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
+        }
+      ],
+      "homeContent": [
+        { "id": 1, "text": "Khám phá các vùng đất mới cùng Stravel" },
+        { "id": 2, "text": "Đang có ưu đãi mới !!!" }
+      ],
+      "bookHeading": [
+        { "id": 1, "className": "", "text": "T" },
+        { "id": 2, "className": "", "text": "Ì" },
+        { "id": 3, "className": "", "text": "M" },
+        { "id": 4, "className": "space", "text": "" },
+        { "id": 5, "className": "", "text": "Ư" },
+        { "id": 6, "className": "", "text": "U" },
+        { "id": 7, "className": "space", "text": "" },
+        { "id": 8, "className": "", "text": "Đ" },
+        { "id": 9, "className": "", "text": "Ã" },
+        { "id": 10, "className": "", "text": "I" }
+      ],
+      "bookSelect": [
+        { "id": 62, "defaultValue": "Vietnam" },
+        { "id": 0, "defaultValue": "America" },
+        { "id": 1, "defaultValue": "China" },
+        { "id": 2, "defaultValue": "Colombia" },
+        { "id": 3, "defaultValue": "Congo" },
+        { "id": 4, "defaultValue": "Cuba" },
+        { "id": 5, "defaultValue": "Cyprus" },
+        { "id": 6, "defaultValue": "Dominica" },
+        { "id": 7, "defaultValue": "Ecuador" },
+        { "id": 8, "defaultValue": "Egypt" },
+        { "id": 9, "defaultValue": "Ethiopia" },
+        { "id": 10, "defaultValue": "France" },
+        { "id": 11, "defaultValue": "Georgia" },
+        { "id": 12, "defaultValue": "Germany" },
+        { "id": 13, "defaultValue": "Greenland" },
+        { "id": 14, "defaultValue": "Guam" },
+        { "id": 15, "defaultValue": "Guyana" },
+        { "id": 16, "defaultValue": "Kong Kong" },
+        { "id": 17, "defaultValue": "Hungary" },
+        { "id": 18, "defaultValue": "ChiIcelandna" },
+        { "id": 19, "defaultValue": "India" },
+        { "id": 20, "defaultValue": "Indonesia" },
+        { "id": 21, "defaultValue": "Iran" },
+        { "id": 22, "defaultValue": "Iraq" },
+        { "id": 23, "defaultValue": "Ireland" },
+        { "id": 24, "defaultValue": "Israel" },
+        { "id": 25, "defaultValue": "Japan" },
+        { "id": 26, "defaultValue": "Lao" },
+        { "id": 27, "defaultValue": "Liberia" },
+        { "id": 28, "defaultValue": "Macau" },
+        { "id": 29, "defaultValue": "Malaysia" },
+        { "id": 30, "defaultValue": "Malta" },
+        { "id": 31, "defaultValue": "Mexico" },
+        { "id": 32, "defaultValue": "Monaco" },
+        { "id": 33, "defaultValue": "Morocco" },
+        { "id": 34, "defaultValue": "Myanmar" },
+        { "id": 35, "defaultValue": "Nauru" },
+        { "id": 36, "defaultValue": "Nepal" },
+        { "id": 37, "defaultValue": "New Zealand" },
+        { "id": 38, "defaultValue": "Nigeria" },
+        { "id": 39, "defaultValue": "Oman" },
+        { "id": 40, "defaultValue": "Pakistan" },
+        { "id": 41, "defaultValue": "Peru" },
+        { "id": 42, "defaultValue": "Philippines" },
+        { "id": 43, "defaultValue": "Qatar" },
+        { "id": 44, "defaultValue": "Russia" },
+        { "id": 45, "defaultValue": "Singapore" },
+        { "id": 46, "defaultValue": "Span" },
+        { "id": 47, "defaultValue": "SriLanka" },
+        { "id": 48, "defaultValue": "ChiSudanna" },
+        { "id": 49, "defaultValue": "Syria" },
+        { "id": 50, "defaultValue": "Taiwan" },
+        { "id": 51, "defaultValue": "Thailand" },
+        { "id": 52, "defaultValue": "Tunisia" },
+        { "id": 53, "defaultValue": "Turkey" },
+        { "id": 54, "defaultValue": "ChUkraineina" },
+        { "id": 55, "defaultValue": "United States" },
+        { "id": 56, "defaultValue": "United Kingdom" },
+        { "id": 57, "defaultValue": "Uzbekistan" },
+        { "id": 58, "defaultValue": "Venezuela" },
+        { "id": 59, "defaultValue": "Serbia" },
+        { "id": 60, "defaultValue": "Zambia" },
+        { "id": 61, "defaultValue": "Zimbabwe" }
+      ],
+      "packagesHeading": [
+        { "id": 1, "text": "Ư", "className": "" },
+        { "id": 2, "text": "U", "className": "" },
+        { "id": 3, "text": "", "className": "space" },
+        { "id": 4, "text": "Đ", "className": "" },
+        { "id": 5, "text": "Ã", "className": "" },
+        { "id": 6, "text": "I", "className": "" }
+      ],
+      "packagesStar": [
+        { "id": 1, "className": "fas fa-star" },
+        { "id": 2, "className": "fas fa-star" },
+        { "id": 3, "className": "fas fa-star" },
+        { "id": 4, "className": "fas fa-star" },
+        { "id": 5, "className": "far fa-star" }
+      ],
+      "packagesBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
+          "h3": " mumbai",
+          "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
+          "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "52.845.245",
+          "href": "/mumbai"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
+          "h3": " hawaii",
+          "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
+          "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
+          "price": "50.000.000 ",
+          "spanPrice": "65.124.756",
+          "href": "/hawaii"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
+          "h3": " sydney",
+          "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
+          "p2": "chuyến đi có ưu đãi tốt nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "73.354.657",
+          "href": "/sydney"
         },
         {
           "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-4.jpg",
-          "h3": "Aswan",
-
-          "p": "Thị trấn yên bình nhất của Ai Cập, đặt trên những đường cong của sông Nile"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
+          "h3": " paris",
+          "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
+          "p2": "chuyến đi được đặt nhiều nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "83.534.978",
+          "href": "/paris"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-5.jpg",
-          "h3": "Abu simbel",
-
-          "p": "Nổi tiếng với tỷ lệ megalithic và được biết đến với ngôi đền của Ramses II"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
+          "h3": " tokyo",
+          "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
+          "p2": "chuyến đi có giá thấp nhất",
+          "price": "6.500.000 ",
+          "spanPrice": "10.000.000",
+          "href": "/tokyo"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-6.jpg",
-          "h3": "Bảo tàng Egyptian",
-
-          "p": "Bảo tàng Ai Cập của Cairo là một trong những bộ sưu tập bảo tàng tuyệt vời của thế giới"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
+          "h3": " Egypt",
+          "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
+          "p2": "chuyến đi được bình chọn tốt nhất",
+          "price": "48.000.000 ",
+          "spanPrice": "54.346.456",
+          "href": "/egypt"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-7.jpg",
-          "h3": "Sa mạc trắng",
-
-          "p": "Kỳ quan tự nhiên Sa mạc Trắng trông giống như một vùng đất hoang tuyết ở giữa cát khô cằn"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
+          "h3": " mumbai",
+          "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
+          "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "52.845.245",
+          "href": "/mumbai"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-8.jpg",
-          "h3": "Siwa Oasis",
-
-          "p": "Siwa là loại thuốc bổ yên tĩnh đến sự hối hả của các thành phố Ai Cập và là một trong những địa điểm đẹp nhất của Tây Sa mạc"
-        }
-      ],
-      "Destination": {
-        "content": "Những điểm đến ở Egypt",
-        "title": "Những điểm du lịch bậc nhất"
-      },
-      "servicesBox": [
-        {
-          "id": 1,
-          "icon": "fas fa-globe",
-          "h3": "Rộng khắp thế giới"
-        },
-        {
-          "id": 2,
-          "icon": "fas fa-hiking",
-          "h3": "Những cuộc phiêu lưu"
-        },
-        {
-          "id": 3,
-          "icon": "fas fa-utensils",
-          "h3": "Dịch vụ ăn uống"
-        },
-        {
-          "id": 4,
-          "icon": "fas fa-hotel",
-          "h3": "Nghỉ dưỡng cao cấp"
-        },
-        {
-          "id": 5,
-          "icon": "fas fa-wallet",
-          "h3": "Mức giá tốt nhất"
-        },
-        {
-          "id": 6,
-          "icon": "fas fa-headset",
-          "h3": "Hỗ trợ 24/7"
-        }
-      ],
-      "Services": {
-        "content": "Dịch vụ",
-        "title": "Nâng cao trải nghiệm"
-      },
-      "galleryBox": [
-        {
-          "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-1.jpg",
-          "span": "Thị trấn Dusty Abydos",
-          "h3": "Đền Abydos"
-        },
-        {
-          "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-2.jpg",
-          "span": "Trung tâm Ai Cập",
-          "h3": "Nam Sinai"
-        },
-        {
-          "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-3.jpg",
-          "span": "Chân núi Sinai",
-          "h3": "Nam Sinai"
-        },
-        {
-          "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-4.jpg",
-          "span": "Alexandria",
-          "h3": "Thành phố Alexandria"
-        },
-        {
-          "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-5.jpg",
-          "span": "Tây sa mạc",
-          "h3": "Siwa Oasis"
-        },
-        {
-          "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-6.jpg",
-          "span": "Bắc Farafra Oasis",
-          "h3": "Sa mạc trắng"
-        },
-        {
-          "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-7.jpg",
-          "span": "Cario",
-          "h3": "Bảo tàng Egyptian"
-        },
-        {
-          "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-8.jpg",
-          "span": "Nam Ai Cập",
-          "h3": "Abu simbel"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
+          "h3": " hawaii",
+          "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
+          "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
+          "price": "50.000.000 ",
+          "spanPrice": "65.124.756",
+          "href": "/hawaii"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-9.jpg",
-          "span": "Quận hồi giáo",
-          "h3": "Hổi Giáo Cario"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
+          "h3": " sydney",
+          "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
+          "p2": "chuyến đi có ưu đãi tốt nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "73.354.657",
+          "href": "/sydney"
+        },
+        {
+          "id": 10,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
+          "h3": " paris",
+          "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
+          "p2": "chuyến đi được đặt nhiều nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "83.534.978",
+          "href": "/paris"
+        },
+        {
+          "id": 11,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
+          "h3": " tokyo",
+          "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
+          "p2": "chuyến đi có giá thấp nhất",
+          "price": "6.500.000 ",
+          "spanPrice": "10.000.000",
+          "href": "/tokyo"
+        },
+        {
+          "id": 12,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
+          "h3": " Egypt",
+          "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
+          "p2": "chuyến đi được bình chọn tốt nhất",
+          "price": "48.000.000 ",
+          "spanPrice": "54.346.456",
+          "href": "/egypt"
+        },
+        {
+          "id": 13,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
+          "h3": " mumbai",
+          "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
+          "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "52.845.245",
+          "href": "/mumbai"
+        },
+        {
+          "id": 14,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
+          "h3": " hawaii",
+          "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
+          "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
+          "price": "50.000.000 ",
+          "spanPrice": "65.124.756",
+          "href": "/hawaii"
+        },
+        {
+          "id": 15,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
+          "h3": " sydney",
+          "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
+          "p2": "chuyến đi có ưu đãi tốt nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "73.354.657",
+          "href": "/sydney"
+        },
+        {
+          "id": 16,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
+          "h3": " paris",
+          "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
+          "p2": "chuyến đi được đặt nhiều nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "83.534.978",
+          "href": "/paris"
+        },
+        {
+          "id": 17,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
+          "h3": " tokyo",
+          "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
+          "p2": "chuyến đi có giá thấp nhất",
+          "price": "6.500.000 ",
+          "spanPrice": "10.000.000",
+          "href": "/tokyo"
+        },
+        {
+          "id": 18,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
+          "h3": " Egypt",
+          "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
+          "p2": "chuyến đi được bình chọn tốt nhất",
+          "price": "48.000.000 ",
+          "spanPrice": "54.346.456",
+          "href": "/egypt"
+        },
+        {
+          "id": 19,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
+          "h3": " mumbai",
+          "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
+          "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "52.845.245",
+          "href": "/mumbai"
+        },
+        {
+          "id": 20,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
+          "h3": " hawaii",
+          "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
+          "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
+          "price": "50.000.000 ",
+          "spanPrice": "65.124.756",
+          "href": "/hawaii"
+        },
+        {
+          "id": 21,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
+          "h3": " sydney",
+          "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
+          "p2": "chuyến đi có ưu đãi tốt nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "73.354.657",
+          "href": "/sydney"
+        },
+        {
+          "id": 22,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
+          "h3": " paris",
+          "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
+          "p2": "chuyến đi được đặt nhiều nhất",
+          "price": "30.000.000 ",
+          "spanPrice": "83.534.978",
+          "href": "/paris"
+        },
+        {
+          "id": 23,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
+          "h3": " tokyo",
+          "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
+          "p2": "chuyến đi có giá thấp nhất",
+          "price": "6.500.000 ",
+          "spanPrice": "10.000.000",
+          "href": "/tokyo"
+        },
+        {
+          "id": 24,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
+          "h3": " Egypt",
+          "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
+          "p2": "chuyến đi được bình chọn tốt nhất",
+          "price": "48.000.000 ",
+          "spanPrice": "54.346.456",
+          "href": "/egypt"
         }
       ],
-      "Gallery": {
-        "content": "những bức Ảnh về Egypt"
-      },
-      "blogBox": [
+      "servicesHeading": [
+        { "id": 1, "text": "D", "className": "" },
+        { "id": 2, "text": "Ị", "className": "" },
+        { "id": 3, "text": "C", "className": "" },
+        { "id": 4, "text": "H", "className": "" },
+        { "id": 5, "text": "", "className": "space" },
+        { "id": 6, "text": "V", "className": "" },
+        { "id": 7, "text": "Ụ", "className": "" }
+      ],
+      "servicesBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/blog-1.jpg",
-          "a": "Mang những gì khi đi Egypt",
-          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          "icon": "fas fa-hotel",
+          "h3": " Nghỉ dưỡng cao cấp",
+          "p": "some thing..."
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/blog-2.jpg",
-          "a": "Xin visa đi Egypt",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "icon": "fas fa-utensils",
+          "h3": " Dịch vụ ăn uống",
+          "p": "some thing..."
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/blog-3.jpg",
-          "a": "Phương tiện di chuyển",
-          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
-        }
-      ],
-      "Blog": {
-        "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Egypt"
-      },
-      "ReviewBox": [
-        {
-          "id": 1,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 2,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 3,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-          "h3": "Some text..."
+          "icon": "fas fa-bullhorn",
+          "h3": " chính sách an toàn",
+          "p": "some thing..."
         },
         {
           "id": 4,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-          "h3": "Some text..."
+          "icon": "fas fa-globe-asia",
+          "h3": " Rộng khắp thế giới",
+          "p": "some thing..."
+        },
+        {
+          "id": 5,
+          "icon": "fas fa-plane",
+          "h3": " Luôn nhanh nhất",
+          "p": "some thing..."
+        },
+        {
+          "id": 6,
+          "icon": "fas fa-hiking",
+          "h3": " sự phiêu lưu",
+          "p": "some thing..."
         }
       ],
-      "banner": {
-        "content": "Cùng STravel",
-        "title": "Bắt đầu chuyến đi của bạn",
-        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
-      }
+      "galleryHeading": [
+        { "id": 1, "text": "T", "className": "" },
+        { "id": 2, "text": "H", "className": "" },
+        { "id": 3, "text": "Ư", "className": "" },
+        { "id": 4, "text": "", "className": "space" },
+        { "id": 5, "text": "V", "className": "" },
+        { "id": 6, "text": "I", "className": "" },
+        { "id": 7, "text": "Ệ", "className": "" },
+        { "id": 8, "text": "N", "className": "" }
+      ],
+      "galleryBox": [
+        {
+          "id": 1,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-1.jpg"
+        },
+        {
+          "id": 2,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-2.jpg"
+        },
+        {
+          "id": 3,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-3.jpg"
+        },
+        {
+          "id": 4,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-4.jpg"
+        },
+        {
+          "id": 5,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-5.jpg"
+        },
+        {
+          "id": 6,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-6.jpg"
+        },
+        {
+          "id": 7,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-7.jpg"
+        },
+        {
+          "id": 8,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-8.jpg"
+        },
+        {
+          "id": 9,
+          "h3": "Ảnh chụp",
+          "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-9.jpg"
+        }
+      ],
+      "reviewHeading": [
+        { "id": 1, "text": "Đ", "className": "" },
+        { "id": 2, "text": "Á", "className": "" },
+        { "id": 3, "text": "N", "className": "" },
+        { "id": 4, "text": "H", "className": "" },
+        { "id": 5, "text": "", "className": "space" },
+        { "id": 6, "text": "G", "className": "" },
+        { "id": 7, "text": "I", "className": "" },
+        { "id": 8, "text": "Á", "className": "" }
+      ],
+      "ratingStar": [
+        { "id": 1, "type": "radio", "class": "star" },
+        { "id": 2, "type": "radio", "class": "star" },
+        { "id": 3, "type": "radio", "class": "star" },
+        { "id": 4, "type": "radio", "class": "star" },
+        { "id": 5, "type": "radio", "class": "star" },
+        { "id": 6, "type": "radio", "class": "star" },
+        { "id": 7, "type": "radio", "class": "star" },
+        { "id": 8, "type": "radio", "class": "star" },
+        { "id": 9, "type": "radio", "class": "star" },
+        { "id": 10, "type": "radio", "class": "star" }
+      ],
+      "reviewBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic1.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic2.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic3.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic4.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic1.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic2.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic3.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic4.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic1.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 10,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic2.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 11,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic3.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        },
+        {
+          "id": 12,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/pic4.png",
+          "h3": "Dương Nguyễn",
+          "p": "Some text..."
+        }
+      ],
+      "contactHeading": [
+        { "id": 1, "text": "L", "className": "" },
+        { "id": 2, "text": "I", "className": "" },
+        { "id": 3, "text": "Ê", "className": "" },
+        { "id": 4, "text": "N", "className": "" },
+        { "id": 5, "text": "", "className": "space" },
+        { "id": 6, "text": "H", "className": "" },
+        { "id": 7, "text": "Ệ", "className": "" }
+      ],
+      "brandBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/1.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/2.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/3.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/4.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/5.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/6.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/7.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/8.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/9.jpg"
+        },
+        {
+          "id": 10,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/10.jpg"
+        },
+        {
+          "id": 11,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/11.jpg"
+        },
+        {
+          "id": 12,
+          "src": "https://apiforstravel.herokuapp.com/images/Home/12.jpg"
+        }
+      ]
     },
-    {
-      "id": 2,
-      "home": {
-        "name": "Hawaii",
-        "content": "Hòn ngọc của thái bình dương",
-        "textcontent": " Địa danh này là một quần thể các đảo hoang sơ giữa Thái Bình Dương mà nổi bật nhất là các đảo Oahu, Maui, Big island…trong đó đảo Oahu là nơi có nhiều người sinh sống nhất và cũng là trung tâm du lịch. Hawaii nổi tiếng nhờ các bãi tắm dài và đẹp với nước biển trong xanh. Du khách đến Hawaii là để nghỉ dưỡng, xem mặt trời mọc, mặt trời lặn và văn hóa của các thổ dân đa đảo"
-      },
-      "Book": {
-        "content": "kỳ nghỉ dưỡng được đánh giá cao nhất"
-      },
-      "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
-      },
-      "aboutvideo": {
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
-        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
-      },
-      "destinationBox": [
+    "gallery": {
+      "HomeHeading": [
+        { "id": 1, "text": "T", "className": "" },
+        { "id": 2, "text": "Ổ", "className": "" },
+        { "id": 3, "text": "N", "className": "" },
+        { "id": 4, "text": "G", "className": "" },
+        { "id": 5, "text": "", "className": "space" },
+        { "id": 6, "text": "H", "className": "" },
+        { "id": 7, "text": "Ợ", "className": "" },
+        { "id": 8, "text": "P", "className": "" }
+      ],
+      "HomeBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-1.jpg",
-          "h3": "Bãi biển Waikiki",
-          "p": "lý tưởng cho những hoạt động dưới nước như: surfing, stand-up paddle, boogie board, chèo ca-nô đồng đội..."
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-1.jpg"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-2.jpg",
-          "h3": "đảo Oahu",
-
-          "p": "cực kỳ đáng tiếc nếu tới Oahu mà không ngâm mình dưới nước thư giãn và khám phá thế giới đại dương bao la rực rỡ"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-2.jpg"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-3.jpg",
-          "h3": "Trân Châu Cảng",
-
-          "p": "di tích lịch sử cấp Quốc gia, thu hút hơn 2 triệu lượt khách du khách đến tham quan mỗi năm."
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-3.jpg"
         },
         {
           "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-4.jpg",
-          "h3": "Công viên Na Pali Coast",
-          "p": "Nếu đã xem bộ phim Jurassic Park, bạn sẽ nhận ra vách đá hình từng xuất hiện trong cảnh quay của phim"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-4.jpg"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-5.jpg",
-          "h3": "Công viên núi lửa Hawaii",
-
-          "p": "cùng chiêm ngưỡng hai trong số những ngọn núi lửa lớn nhất hành tinh vẫn còn đang hoạt động"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-5.jpg"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-6.jpg",
-          "h3": "Vườn quốc gia Haleakala",
-
-          "p": "Tâm điểm của vườn quốc gia chính là ngọn núi lửa Haleakala cao 3048 mét đã ngừng hoạt động"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-6.jpg"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-7.jpg",
-          "h3": "kona Coffee Farms",
-
-          "p": "trải nghiệm tự tay thu hoạch, chế biến cafe và thưởng thức hương vị của loại cafe hảo hạng nhất thế giới"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-7.jpg"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/des-8.jpg",
-          "h3": "Cung điện Iolani",
-
-          "p": "Nơi đâu được xem là một trong những cung điện đẹp nhất trên thế giới. Cũng là cung điện Hoàng Gia duy nhất của Hawaii"
-        }
-      ],
-      "Destination": {
-        "content": "Những điểm đến ở Hawaii",
-        "title": "Những điểm du lịch bậc nhất"
-      },
-      "servicesBox": [
-        {
-          "id": 1,
-          "icon": "fas fa-globe",
-          "h3": "Rộng khắp thế giới"
-        },
-        {
-          "id": 2,
-          "icon": "fas fa-hiking",
-          "h3": "Những cuộc phiêu lưu"
-        },
-        {
-          "id": 3,
-          "icon": "fas fa-utensils",
-          "h3": "Dịch vụ ăn uống"
-        },
-        {
-          "id": 4,
-          "icon": "fas fa-hotel",
-          "h3": "Nghỉ dưỡng cao cấp"
-        },
-        {
-          "id": 5,
-          "icon": "fas fa-wallet",
-          "h3": "Mức giá tốt nhất"
-        },
-        {
-          "id": 6,
-          "icon": "fas fa-headset",
-          "h3": "Hỗ trợ 24/7"
-        }
-      ],
-      "Services": {
-        "content": "Dịch vụ",
-        "title": "Nâng cao trải nghiệm"
-      },
-      "galleryBox": [
-        {
-          "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-1.jpg",
-          "span": "Kailua",
-          "h3": "Bờ biển Kailua"
-        },
-        {
-          "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-2.jpg",
-          "span": "Paradise Cove.",
-          "h3": "trình diễn múa lửa"
-        },
-        {
-          "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-3.jpg",
-          "span": "Hawaii",
-          "h3": "Công viên quốc gia"
-        },
-        {
-          "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-4.jpg",
-          "span": "Oahu",
-          "h3": "North shore"
-        },
-        {
-          "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-5.jpg",
-          "span": "Hawaii",
-          "h3": "Bãi biển Waikiki"
-        },
-        {
-          "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-6.jpg",
-          "span": "Hawaii",
-          "h3": "vườn quốc gia Haleakala"
-        },
-        {
-          "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-7.jpg",
-          "span": "dọc bờ biển Hamakua",
-          "h3": "Hành lang di sản Hamakua"
-        },
-        {
-          "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-8.jpg",
-          "span": "phía đông thành phố Hawaii",
-          "h3": "Mauna kea"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-8.jpg"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-9.jpg",
-          "span": "đảo Oahu",
-          "h3": "Thác nước"
+          "src": "https://apiforstravel.herokuapp.com/images/Home/g-9.jpg"
         }
       ],
-      "Gallery": {
-        "content": "những bức Ảnh về Hawaii"
-      },
-      "blogBox": [
+      "EgyptHeading": [
+        { "id": 1, "text": "E", "className": "" },
+        { "id": 2, "text": "G", "className": "" },
+        { "id": 3, "text": "Y", "className": "" },
+        { "id": 4, "text": "P", "className": "" },
+        { "id": 5, "text": "T", "className": "" }
+      ],
+      "EgyptBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/blog-1.jpg",
-          "a": "Mang những gì khi đi Hawaii",
-          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-1.jpg"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/blog-2.jpg",
-          "a": "Xin visa đi Hawaii",
-          "p": "Visa ở đây không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-2.jpg"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/blog-3.jpg",
-          "a": "Phương tiện di chuyển",
-          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
-        }
-      ],
-      "Blog": {
-        "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Hawaii"
-      },
-      "ReviewBox": [
-        {
-          "id": 1,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 2,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 3,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
-          "h3": "Some text..."
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-3.jpg"
         },
         {
           "id": 4,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/pic-1.png",
-          "h3": "Some text..."
-        }
-      ],
-      "banner": {
-        "content": "Cùng STravel",
-        "title": "Bắt đầu chuyến đi của bạn",
-        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
-      }
-    },
-    {
-      "id": 3,
-      "home": {
-        "name": "Mumbai",
-        "content": "Thành phố có tất cả",
-        "textcontent": " Mumbai không chỉ là trung tâm tài chính – kinh tế, kinh đô điện ảnh – thời trang của Ấn Độ, mà đây còn là thành phố cảng vừa hiện đại nhưng vẫn mang nhiều nét cổ kính với những công trình kiến trúc, quán bar, nhà hàng, viện bảo tàng và các cửa hàng thời trang hấp dẫn…"
-      },
-      "Book": {
-        "content": "Chuyến đi được tìm kiếm nhiểu nhất"
-      },
-      "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
-      },
-      "aboutvideo": {
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
-        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
-      },
-      "destinationBox": [
-        {
-          "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-1.jpg",
-          "h3": "Ấn Độ môn",
-          "p": "được xây dựng vào năm 1931, còn có tên gọi khác là bia kỷ niệm chiến sĩ Ấn Độ"
-        },
-        {
-          "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-2.jpg",
-          "h3": "Tòa nhà hình trứng",
-
-          "p": " nghệ thuật kiến trúc thị giác kết hợp với cách sản xuất, sử dụng và tái tạo năng lượng thông minh"
-        },
-        {
-          "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-3.jpg",
-          "h3": "Vườn quốc gia Sanjay Gandhi",
-
-          "p": "bao gồm loài bướm đêm Atlas – bướm đêm lớn nhất thế giới, cây hoa Karvi 7 năm nở hoa một lần…"
-        },
-        {
-          "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-4.jpg",
-          "h3": "Trung tâm triễn lãm Jehanggir",
-
-          "p": "khu vực triển lãm hàng đầu ở Mumbai dành cho nền mỹ thuật Ấn Độ đương đại"
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-4.jpg"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-5.jpg",
-          "h3": "Hang động Elephanta",
-
-          "p": "lưu giữ nhiều kiến trúc chạm khắc tinh xảo và chúng đã xuất hiện ở đây từ thế kỷ thứ 5 đến thứ 8"
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-5.jpg"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-6.jpg",
-          "h3": "Lonavala và Khandala",
-
-          "p": " khu nghỉ dưỡng rất nổi tiếng, nằm giữa đường cao tốc Mumbai – Pune."
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-6.jpg"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-7.jpg",
-          "h3": "Thành phố Pune",
-
-          "p": "Giáo dục, nghệ thuật và âm nhạc là trọng tâm tại thành phố có nền văn hóa phong phú lâu đời này"
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-7.jpg"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/des-8.jpg",
-          "h3": "Thành phố Nashik",
-
-          "p": "là trung tâm hành hương lớn của người Hindu. Nashik có sự pha trộn của nét cổ xưa và hiện đại"
-        }
-      ],
-      "Destination": {
-        "content": "Những điểm đến ở Mumbai",
-        "title": "Những điểm du lịch bậc nhất"
-      },
-      "servicesBox": [
-        {
-          "id": 1,
-          "icon": "fas fa-globe",
-          "h3": "Rộng khắp thế giới"
-        },
-        {
-          "id": 2,
-          "icon": "fas fa-hiking",
-          "h3": "Những cuộc phiêu lưu"
-        },
-        {
-          "id": 3,
-          "icon": "fas fa-utensils",
-          "h3": "Dịch vụ ăn uống"
-        },
-        {
-          "id": 4,
-          "icon": "fas fa-hotel",
-          "h3": "Nghỉ dưỡng cao cấp"
-        },
-        {
-          "id": 5,
-          "icon": "fas fa-wallet",
-          "h3": "Mức giá tốt nhất"
-        },
-        {
-          "id": 6,
-          "icon": "fas fa-headset",
-          "h3": "Hỗ trợ 24/7"
-        }
-      ],
-      "Services": {
-        "content": "Dịch vụ",
-        "title": "Nâng cao trải nghiệm"
-      },
-      "galleryBox": [
-        {
-          "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-1.jpg",
-          "span": "thành phố Mumbai",
-          "h3": "vườn quốc gia Sanjay Gandhi"
-        },
-        {
-          "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-2.jpg",
-          "span": "",
-          "h3": "Nhà Thờ St John The Evangelist"
-        },
-        {
-          "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-3.jpg",
-          "span": "trên đỉnh ngọn đồi Malabar ở Mumbai",
-          "h3": "Vườn treo Mumbai"
-        },
-        {
-          "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-4.jpg",
-          "span": "Bảo tàng viện của thành phố Mumbai",
-          "h3": "Dr. Bhau Daji Lad"
-        },
-        {
-          "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-5.jpg",
-          "span": "di sản thế giới được UNESCO nhìn nhận.",
-          "h3": "Tòa đô chánh Mumbai"
-        },
-        {
-          "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-6.jpg",
-          "span": "Mumbai",
-          "h3": "kiến trúc thời Victoria"
-        },
-        {
-          "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-7.jpg",
-          "span": "Khách sạn 5 sao ở Mumbai",
-          "h3": "Khách sạn Taj Mahal"
-        },
-        {
-          "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-8.jpg",
-          "span": "phía đông thành phố Mumbai",
-          "h3": "Hang động Elephanta"
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-8.jpg"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-9.jpg",
-          "span": "Mumbai",
-          "h3": "phiên chợ địa phương"
+          "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-9.jpg"
         }
       ],
-      "Gallery": {
-        "content": "những bức Ảnh về Mumbai"
-      },
-      "blogBox": [
+      "HawaiiHeading": [
+        { "id": 1, "text": "H", "className": "" },
+        { "id": 2, "text": "A", "className": "" },
+        { "id": 3, "text": "W", "className": "" },
+        { "id": 4, "text": "A", "className": "" },
+        { "id": 5, "text": "I", "className": "" },
+        { "id": 6, "text": "I", "className": "" }
+      ],
+      "HawaiiBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/blog-1.jpg",
-          "a": "Mang những gì khi đi Mumbai",
-          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-1.jpg"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/blog-2.jpg",
-          "a": "Xin visa đi Mumbai",
-          "p": "Visa ở đây không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-2.jpg"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/blog-3.jpg",
-          "a": "Phương tiện di chuyển",
-          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
-        }
-      ],
-      "Blog": {
-        "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Mumbai"
-      },
-      "ReviewBox": [
-        {
-          "id": 1,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 2,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 3,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
-          "h3": "Some text..."
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-3.jpg"
         },
         {
           "id": 4,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/pic-1.png",
-          "h3": "Some text..."
-        }
-      ],
-      "banner": {
-        "content": "Cùng STravel",
-        "title": "Bắt đầu chuyến đi của bạn",
-        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
-      }
-    },
-    {
-      "id": 4,
-      "home": {
-        "name": "Paris",
-        "content": "Kinh đô thời trang",
-        "textcontent": "Paris là một vùng đất của nghệ thuật và nghệ sĩ. Thành phố đầy những di tích có tầm quan trọng trong lịch sử của thành phố và thế giới. Lịch sử phong phú của thành phố này thu hút rất nhiều những người đam mê khảo cổ và những người yêu thích kiến trúc. Một số di tích kiến trúc nổi tiếng là Boulevard Montmartre được xây dựng vào năm 1897, Basilique du Sacré-Cœur ở Montmartre, bảo tàng Louvre nổi tiếng,Panthéon…"
-      },
-      "Book": {
-        "content": "Chuyến đi được đặt nhiều nhất"
-      },
-      "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
-      },
-      "aboutvideo": {
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
-        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
-      },
-      "destinationBox": [
-        {
-          "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-1.jpg",
-          "h3": "Tháp Eiffel",
-          "p": "Một trong những phần tốt nhất của toà tháp là tầm nhìn toàn cảnh ở trên đỉnh"
-        },
-        {
-          "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-2.jpg",
-          "h3": "Nhà Thờ Đức Bà",
-
-          "p": "Đây là một trong những công trình kiến trúc điển hình đc thiết kế theo phong cách Gothic Pháp"
-        },
-        {
-          "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-3.jpg",
-          "h3": "Bảo tàng Louvre",
-
-          "p": "Bảo tàng Louvre là bảo tàng nghệ thật được ghé thăm nhiều nhất trên thế giới"
-        },
-        {
-          "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-4.jpg",
-          "h3": "Đại lộ Champs Elysées",
-
-          "p": "Louis Vuitton, Cartier, Guerlain, Montblanc… và nhà hàng nổi tiếng đều nằm trên đại lộ này."
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-4.jpg"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-5.jpg",
-          "h3": "Công viên Disneyland",
-
-          "p": "Người hâm một của nhân vật hoạt hình Mickey rất thích ghé thăm công viên Disneyland"
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-5.jpg"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-6.jpg",
-          "h3": "Montmartre",
-
-          "p": "Địa danh nổi tiếng nhất của Montmartre có lẽ là Vương cung Thánh đường Sacré-Cœur nằm ở trên đỉnh đồi"
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-6.jpg"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-7.jpg",
-          "h3": "Cung điện Versailles",
-
-          "p": "Versailles là lâu đài nổi tiếng nhất ở Pháp và biểu tượng của quyền lực tối thượng thời đại phong kiến"
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-7.jpg"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/des-8.jpg",
-          "h3": "Moulin Rouge",
-
-          "p": "Moulin Rouge là một quán rượu được biết đến như quê hương của điệu nhảy Cancan nổi tiếng"
-        }
-      ],
-      "Destination": {
-        "content": "Những điểm đến ở Paris",
-        "title": "Những điểm du lịch bậc nhất"
-      },
-      "servicesBox": [
-        {
-          "id": 1,
-          "icon": "fas fa-globe",
-          "h3": "Rộng khắp thế giới"
-        },
-        {
-          "id": 2,
-          "icon": "fas fa-hiking",
-          "h3": "Những cuộc phiêu lưu"
-        },
-        {
-          "id": 3,
-          "icon": "fas fa-utensils",
-          "h3": "Dịch vụ ăn uống"
-        },
-        {
-          "id": 4,
-          "icon": "fas fa-hotel",
-          "h3": "Nghỉ dưỡng cao cấp"
-        },
-        {
-          "id": 5,
-          "icon": "fas fa-wallet",
-          "h3": "Mức giá tốt nhất"
-        },
-        {
-          "id": 6,
-          "icon": "fas fa-headset",
-          "h3": "Hỗ trợ 24/7"
-        }
-      ],
-      "Services": {
-        "content": "Dịch vụ",
-        "title": "Nâng cao trải nghiệm"
-      },
-      "galleryBox": [
-        {
-          "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-1.jpg",
-          "span": "Normandie, Pháp",
-          "h3": "Đảo Mont Saint-Michel"
-        },
-        {
-          "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-2.jpg",
-          "span": "Đấu trường La Mã",
-          "h3": "Nimes Arena"
-        },
-        {
-          "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-3.jpg",
-          "span": "Languedoc-Roussillon, Pháp",
-          "h3": "pháo đài cổ Carcassonne"
-        },
-        {
-          "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-4.jpg",
-          "span": "Cây cầu xưa mang tính biểu tượng",
-          "h3": "Cầu Pont du gard"
-        },
-        {
-          "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-5.jpg",
-          "span": "Chiến trường Chiến tranh thế giới lần thứ nhất",
-          "h3": "Hào quang Trận Somme"
-        },
-        {
-          "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-6.jpg",
-          "span": "Nơi ăn ảnh nhất nước pháp",
-          "h3": "dãy núi Alps"
-        },
-        {
-          "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-7.jpg",
-          "span": "Nằm giữa biên giới của Pháp với Italy",
-          "h3": "Mont Blanc"
-        },
-        {
-          "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-8.jpg",
-          "span": "Provence",
-          "h3": "Đồng hoa Oải Hương"
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-8.jpg"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-9.jpg",
-          "span": "Thủ đô chính trị và toà án Hoàng Gia",
-          "h3": "Château de Versailles"
+          "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-9.jpg"
         }
       ],
-      "Gallery": {
-        "content": "những bức Ảnh về Paris"
-      },
-      "blogBox": [
+      "MumbaiHeading": [
+        { "id": 1, "text": "M", "className": "" },
+        { "id": 2, "text": "U", "className": "" },
+        { "id": 3, "text": "M", "className": "" },
+        { "id": 4, "text": "B", "className": "" },
+        { "id": 5, "text": "A", "className": "" },
+        { "id": 6, "text": "I", "className": "" }
+      ],
+      "MumbaiBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-1.jpg",
-          "a": "Mang những gì khi đi Paris",
-          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-1.jpg"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-2.jpg",
-          "a": "Xin visa đi Paris",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-2.jpg"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-3.jpg",
-          "a": "Phương tiện di chuyển",
-          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
-        }
-      ],
-      "Blog": {
-        "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Paris"
-      },
-      "ReviewBox": [
-        {
-          "id": 1,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 2,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 3,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
-          "h3": "Some text..."
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-3.jpg"
         },
         {
           "id": 4,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Paris/pic-1.png",
-          "h3": "Some text..."
-        }
-      ],
-      "banner": {
-        "content": "Cùng STravel",
-        "title": "Bắt đầu chuyến đi của bạn",
-        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
-      }
-    },
-    {
-      "id": 5,
-      "home": {
-        "name": "Sydney",
-        "content": "xứ sở chuột túi",
-        "textcontent": " Sydney là nơi mà đâu đâu cũng có những công trình kiến trúc nguy nga, đồ sộ, thế giới bảo tàng, công viên xanh, những khu vui chơi giải trí hiện đại và cả biển nữa. Quá nhiều điều thú vị vậy thì du lịch Sydney nên đi đâu? Dưới đây là những điểm check-in đẹp nhất mang đậm hơi thở Sydney nói riêng và nước Úc nói chung"
-      },
-      "Book": {
-        "content": "Chuyến đi có ưu đãi tốt nhất"
-      },
-      "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
-      },
-      "aboutvideo": {
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
-        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
-      },
-      "destinationBox": [
-        {
-          "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-1.jpg",
-          "h3": "Sydney Opera House",
-          "p": "Đây là công trình biểu tượng đỉnh cao của Sydney nói riêng và toàn nước Úc nói chung"
-        },
-        {
-          "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-2.jpg",
-          "h3": "Cầu Sydney Harbour",
-
-          "p": "Đây là cây cầu thép lớn nhất thế giới, một trong những biểu tượng của xứ sở chuột túi"
-        },
-        {
-          "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-3.jpg",
-          "h3": "Tháp Sydney",
-
-          "p": "Công trình cao nhất trong thành phố. Toạ lạc tại trung tâm thương mại Piit St"
-        },
-        {
-          "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-4.jpg",
-          "h3": "Khu phố cổ The Rocks",
-
-          "p": "được ví von là “quá khứ và hiện tại hội tụ hoàn hảo của Sydney”"
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-4.jpg"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-5.jpg",
-          "h3": "Quán bia “Lord Nelson”",
-
-          "p": "quán bia xua thật xưa với phong cách cảu người lính,thuỷ thủ và công nhân những năm 1800"
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-5.jpg"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-6.jpg",
-          "h3": "Darling Harbour",
-
-          "p": "hầu hết, khách di lịch cá nhân hoặc đi theo tour đều chọn điểm dừng chân là khu giải trí tại trung tâm Sydney này"
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-6.jpg"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-7.jpg",
-          "h3": "Nhà thờ St Mary",
-
-          "p": "nơi ở của Đức Tổng Giá mục Sydney, đứng đầu trong danh sách các nhà nguyện công giáo đầu tiên tại nước Úc"
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-7.jpg"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/des-8.jpg",
-          "h3": "Government House",
-
-          "p": "nằm trong vườn Bách thảo Hoàng Gia vói một khu vườn xinh đẹp theo kiểu Anh Quốc bao bọc xung quanh"
-        }
-      ],
-      "Destination": {
-        "content": "Những điểm đến ở Sydney",
-        "title": "Những điểm du lịch bậc nhất"
-      },
-      "servicesBox": [
-        {
-          "id": 1,
-          "icon": "fas fa-globe",
-          "h3": "Rộng khắp thế giới"
-        },
-        {
-          "id": 2,
-          "icon": "fas fa-hiking",
-          "h3": "Những cuộc phiêu lưu"
-        },
-        {
-          "id": 3,
-          "icon": "fas fa-utensils",
-          "h3": "Dịch vụ ăn uống"
-        },
-        {
-          "id": 4,
-          "icon": "fas fa-hotel",
-          "h3": "Nghỉ dưỡng cao cấp"
-        },
-        {
-          "id": 5,
-          "icon": "fas fa-wallet",
-          "h3": "Mức giá tốt nhất"
-        },
-        {
-          "id": 6,
-          "icon": "fas fa-headset",
-          "h3": "Hỗ trợ 24/7"
-        }
-      ],
-      "Services": {
-        "content": "Dịch vụ",
-        "title": "Nâng cao trải nghiệm"
-      },
-      "galleryBox": [
-        {
-          "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-1.jpg",
-          "span": "Brisbane, Úc",
-          "h3": "Tòa nhà lịch sử Customs House"
-        },
-        {
-          "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-2.jpg",
-          "span": "Bảo tàng Mỹ thuật Ứng dụng và Khoa học",
-          "h3": "Power House"
-        },
-        {
-          "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-3.jpg",
-          "span": "nằm trên đỉnh ngọn đồi Malabar ở Sydney",
-          "h3": "Vườn bách thảo Hoàng gia"
-        },
-        {
-          "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-4.jpg",
-          "span": "phía tây Sydney",
-          "h3": "Vườn Quốc gia Blue Mountains"
-        },
-        {
-          "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-5.jpg",
-          "span": "giữa lòng thành phố Sydney",
-          "h3": "Công viên Hyde"
-        },
-        {
-          "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-6.jpg",
-          "span": "bãi biển nổi tiếng nhất nước Úc",
-          "h3": "Bãi biển Manly"
-        },
-        {
-          "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-7.jpg",
-          "span": "bãi biển nổi tiếng nhất nước Úc",
-          "h3": "Bãi biển Bondi"
-        },
-        {
-          "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-8.jpg",
-          "span": "gần cảng Sydney",
-          "h3": "Vườn bách thú Taronga"
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-8.jpg"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-9.jpg",
-          "span": "The Rocks, úc",
-          "h3": "Rocks Discovery Museum"
+          "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-9.jpg"
         }
       ],
-      "Gallery": {
-        "content": "những bức Ảnh về Sydney"
-      },
-      "blogBox": [
+      "ParisHeading": [
+        { "id": 1, "text": "P", "className": "" },
+        { "id": 2, "text": "A", "className": "" },
+        { "id": 3, "text": "R", "className": "" },
+        { "id": 4, "text": "I", "className": "" },
+        { "id": 5, "text": "S", "className": "" }
+      ],
+      "ParisBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-1.jpg",
-          "a": "Mang những gì khi đi Sydney",
-          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-1.jpg"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-2.jpg",
-          "a": "Xin visa đi Sydney",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-2.jpg"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-3.jpg",
-          "a": "Phương tiện di chuyển",
-          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
-        }
-      ],
-      "Blog": {
-        "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Sydney"
-      },
-      "ReviewBox": [
-        {
-          "id": 1,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 2,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 3,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
-          "h3": "Some text..."
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-3.jpg"
         },
         {
           "id": 4,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
-          "h3": "Some text..."
-        }
-      ],
-      "banner": {
-        "content": "Cùng STravel",
-        "title": "Bắt đầu chuyến đi của bạn",
-        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
-      }
-    },
-    {
-      "id": 6,
-      "home": {
-        "name": "Tokyo",
-        "content": "Truyền thống và tương lai",
-        "textcontent": "Thủ đô Tokyo không chỉ là linh hồn của đất nước măt trời mọc mà còn được đánh giá là một trong những thành phố lớn nhất,hiện đại phát triển bậc nhất và đông đúc nhất trên thế giới. Với nhịp sống hối hả của người dân, đến với thủ đô tuyệt vời này, du khách sẽ được cảm nhận sự sôi động trong mỗi khoảnh khắc, mỗi một con đường, hết sức thích hợp cho những vị khách từ phương xa đam mê du lịch khám phá một vùng đất mới năng đọng và hiện đại"
-      },
-      "Book": {
-        "content": "Chuyến đi có giá thấp nhất"
-      },
-      "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
-      },
-      "aboutvideo": {
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc1": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
-        "datasrc2": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4",
-        "datasrc3": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
-      },
-      "destinationBox": [
-        {
-          "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-1.jpg",
-          "h3": "Công viên Yoyogi",
-          "p": "công viên lớn nhất Tokyo với những bãi cỏ xanh mướt, rộng và hồ nước xinh đẹp"
-        },
-        {
-          "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-2.jpg",
-          "h3": "Đền thờ Meiji",
-
-          "p": "Nếu đến đây vào sáng chủ nhật, bạn sẽ được xem lễ rước đám cưới theo truyền thống Nhật Bản"
-        },
-        {
-          "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-3.jpg",
-          "h3": "Chợ cá Tsukiji",
-
-          "p": "Chợ cá Tsukiji là khu chợ cá sầm uất và lớn nhất thế giới với diện tích trên 220.000m2 và 1677 gian hàng"
-        },
-        {
-          "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-4.jpg",
-          "h3": "Shinjuku Gyoen",
-
-          "p": "Vườn quốc gia Shinjuku Gyoen là một trong những không gian xanh đẹp nhất Tokyo"
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-4.jpg"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-5.jpg",
-          "h3": "Nhà thi đấu Sumo",
-
-          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-5.jpg"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-6.jpg",
-          "h3": "Bảo tàng Yayoi Kusama",
-
-          "p": "đậm chất Avant Garde với những trái bí kì quái, gương vô tận và ngập tràn chấm bi huyền ảo"
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-6.jpg"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-7.jpg",
-          "h3": "Sở thú Ueno",
-
-          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-7.jpg"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-8.jpg",
-          "h3": "Odaiba",
-
-          "p": "khu phố nhỏ nằm trên Vịnh Tokyo Đây là trung tâm giải trí, kiến ​​trúc và ẩm thực tuyệt vời của thành phố"
-        }
-      ],
-      "Destination": {
-        "content": "Những điểm đến ở Tokyo",
-        "title": "Những điểm du lịch bậc nhất"
-      },
-      "servicesBox": [
-        {
-          "id": 1,
-          "icon": "fas fa-globe",
-          "h3": "Rộng khắp thế giới"
-        },
-        {
-          "id": 2,
-          "icon": "fas fa-hiking",
-          "h3": "Những cuộc phiêu lưu"
-        },
-        {
-          "id": 3,
-          "icon": "fas fa-utensils",
-          "h3": "Dịch vụ ăn uống"
-        },
-        {
-          "id": 4,
-          "icon": "fas fa-hotel",
-          "h3": "Nghỉ dưỡng cao cấp"
-        },
-        {
-          "id": 5,
-          "icon": "fas fa-wallet",
-          "h3": "Mức giá tốt nhất"
-        },
-        {
-          "id": 6,
-          "icon": "fas fa-headset",
-          "h3": "Hỗ trợ 24/7"
-        }
-      ],
-      "Services": {
-        "content": "Dịch vụ",
-        "title": "Nâng cao trải nghiệm"
-      },
-      "galleryBox": [
-        {
-          "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg",
-          "span": "ngôi đền cổ nhất Tokyo",
-          "h3": "Đền Sensoji"
-        },
-        {
-          "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg",
-          "span": "Đền Meiji",
-          "h3": "Ngôi đền nổi tiếng nhất của Nhật Bản"
-        },
-        {
-          "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg",
-          "span": "nơi ở của Hoàng gia Nhật Bản",
-          "h3": "Cung điện hoàng gia Tokyo"
-        },
-        {
-          "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg",
-          "span": "tầng quan sát phóng tầm nhìn ra cả thành phố",
-          "h3": "tháp truyền hình Tokyo"
-        },
-        {
-          "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg",
-          "span": "Shibuya là khu vực sầm uất nhất của Tokyo",
-          "h3": "Quảng trường Shibuya"
-        },
-        {
-          "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg",
-          "span": "cái nôi của phong cách thời trang CHẤT nhất Nhật Bản",
-          "h3": "Harajuku"
-        },
-        {
-          "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg",
-          "span": "Ai nói đi Mỹ mới có hình tượng Nữ Thần Tự Do?",
-          "h3": "Odaiba – Vịnh Tokyo"
-        },
-        {
-          "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg",
-          "span": "khu chợ hải sản thuộc hàng lớn nhất thế giới",
-          "h3": "Chợ cá Tsukiji"
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-8.jpg"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg",
-          "span": "Disneyland của Nhật Bản",
-          "h3": "Tokyo Disneysea"
+          "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-9.jpg"
         }
       ],
-      "Gallery": {
-        "content": "những bức Ảnh về Tokyo"
-      },
-      "blogBox": [
+      "SydneyHeading": [
+        { "id": 1, "text": "S", "className": "" },
+        { "id": 2, "text": "Y", "className": "" },
+        { "id": 3, "text": "D", "className": "" },
+        { "id": 4, "text": "N", "className": "" },
+        { "id": 5, "text": "E", "className": "" },
+        { "id": 6, "text": "Y", "className": "" }
+      ],
+      "SydneyBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-1.jpg",
-          "a": "Mang những gì khi đi Tokyo",
-          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-1.jpg"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-2.jpg",
-          "a": "Xin visa đi Tokyo",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-2.jpg"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-3.jpg",
-          "a": "Phương tiện di chuyển",
-          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
-        }
-      ],
-      "Blog": {
-        "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Tokyo"
-      },
-      "ReviewBox": [
-        {
-          "id": 1,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 2,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
-          "h3": "Some text..."
-        },
-        {
-          "id": 3,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
-          "h3": "Some text..."
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-3.jpg"
         },
         {
           "id": 4,
-          "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
-          "h3": "Some text..."
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-4.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-5.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-6.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-7.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-8.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-9.jpg"
         }
       ],
-      "banner": {
-        "content": "Cùng STravel",
-        "title": "Bắt đầu chuyến đi của bạn",
-        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
-      }
+      "TokyoHeading": [
+        { "id": 1, "text": "T", "className": "" },
+        { "id": 2, "text": "O", "className": "" },
+        { "id": 3, "text": "K", "className": "" },
+        { "id": 4, "text": "Y", "className": "" },
+        { "id": 5, "text": "O", "className": "" }
+      ],
+      "TokyoBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg"
+        }
+      ]
     }
-  ],
-  "home": {
-    "homeControls": [
-      {
-        "id": 1,
-        "className": "vid-btn active",
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4"
-      },
-      {
-        "id": 2,
-        "className": "vid-btn",
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-2.mp4"
-      },
-      {
-        "id": 3,
-        "className": "vid-btn",
-        "src": "https://apiforstravel.herokuapp.com/videos/vid-3.mp4"
-      }
-    ],
-    "homeContent": [
-      { "id": 1, "text": "Khám phá các vùng đất mới cùng Stravel" },
-      { "id": 2, "text": "Đang có ưu đãi mới !!!" }
-    ],
-    "bookHeading": [
-      { "id": 1, "className": "", "text": "T" },
-      { "id": 2, "className": "", "text": "Ì" },
-      { "id": 3, "className": "", "text": "M" },
-      { "id": 4, "className": "space", "text": "" },
-      { "id": 5, "className": "", "text": "Ư" },
-      { "id": 6, "className": "", "text": "U" },
-      { "id": 7, "className": "space", "text": "" },
-      { "id": 8, "className": "", "text": "Đ" },
-      { "id": 9, "className": "", "text": "Ã" },
-      { "id": 10, "className": "", "text": "I" }
-    ],
-    "bookSelect": [
-      { "id": 62, "defaultValue": "Vietnam" },
-      { "id": 0, "defaultValue": "America" },
-      { "id": 1, "defaultValue": "China" },
-      { "id": 2, "defaultValue": "Colombia" },
-      { "id": 3, "defaultValue": "Congo" },
-      { "id": 4, "defaultValue": "Cuba" },
-      { "id": 5, "defaultValue": "Cyprus" },
-      { "id": 6, "defaultValue": "Dominica" },
-      { "id": 7, "defaultValue": "Ecuador" },
-      { "id": 8, "defaultValue": "Egypt" },
-      { "id": 9, "defaultValue": "Ethiopia" },
-      { "id": 10, "defaultValue": "France" },
-      { "id": 11, "defaultValue": "Georgia" },
-      { "id": 12, "defaultValue": "Germany" },
-      { "id": 13, "defaultValue": "Greenland" },
-      { "id": 14, "defaultValue": "Guam" },
-      { "id": 15, "defaultValue": "Guyana" },
-      { "id": 16, "defaultValue": "Kong Kong" },
-      { "id": 17, "defaultValue": "Hungary" },
-      { "id": 18, "defaultValue": "ChiIcelandna" },
-      { "id": 19, "defaultValue": "India" },
-      { "id": 20, "defaultValue": "Indonesia" },
-      { "id": 21, "defaultValue": "Iran" },
-      { "id": 22, "defaultValue": "Iraq" },
-      { "id": 23, "defaultValue": "Ireland" },
-      { "id": 24, "defaultValue": "Israel" },
-      { "id": 25, "defaultValue": "Japan" },
-      { "id": 26, "defaultValue": "Lao" },
-      { "id": 27, "defaultValue": "Liberia" },
-      { "id": 28, "defaultValue": "Macau" },
-      { "id": 29, "defaultValue": "Malaysia" },
-      { "id": 30, "defaultValue": "Malta" },
-      { "id": 31, "defaultValue": "Mexico" },
-      { "id": 32, "defaultValue": "Monaco" },
-      { "id": 33, "defaultValue": "Morocco" },
-      { "id": 34, "defaultValue": "Myanmar" },
-      { "id": 35, "defaultValue": "Nauru" },
-      { "id": 36, "defaultValue": "Nepal" },
-      { "id": 37, "defaultValue": "New Zealand" },
-      { "id": 38, "defaultValue": "Nigeria" },
-      { "id": 39, "defaultValue": "Oman" },
-      { "id": 40, "defaultValue": "Pakistan" },
-      { "id": 41, "defaultValue": "Peru" },
-      { "id": 42, "defaultValue": "Philippines" },
-      { "id": 43, "defaultValue": "Qatar" },
-      { "id": 44, "defaultValue": "Russia" },
-      { "id": 45, "defaultValue": "Singapore" },
-      { "id": 46, "defaultValue": "Span" },
-      { "id": 47, "defaultValue": "SriLanka" },
-      { "id": 48, "defaultValue": "ChiSudanna" },
-      { "id": 49, "defaultValue": "Syria" },
-      { "id": 50, "defaultValue": "Taiwan" },
-      { "id": 51, "defaultValue": "Thailand" },
-      { "id": 52, "defaultValue": "Tunisia" },
-      { "id": 53, "defaultValue": "Turkey" },
-      { "id": 54, "defaultValue": "ChUkraineina" },
-      { "id": 55, "defaultValue": "United States" },
-      { "id": 56, "defaultValue": "United Kingdom" },
-      { "id": 57, "defaultValue": "Uzbekistan" },
-      { "id": 58, "defaultValue": "Venezuela" },
-      { "id": 59, "defaultValue": "Serbia" },
-      { "id": 60, "defaultValue": "Zambia" },
-      { "id": 61, "defaultValue": "Zimbabwe" }
-    ],
-    "packagesHeading": [
-      { "id": 1, "text": "Ư", "className": "" },
-      { "id": 2, "text": "U", "className": "" },
-      { "id": 3, "text": "", "className": "space" },
-      { "id": 4, "text": "Đ", "className": "" },
-      { "id": 5, "text": "Ã", "className": "" },
-      { "id": 6, "text": "I", "className": "" }
-    ],
-    "packagesStar": [
-      { "id": 1, "className": "fas fa-star" },
-      { "id": 2, "className": "fas fa-star" },
-      { "id": 3, "className": "fas fa-star" },
-      { "id": 4, "className": "fas fa-star" },
-      { "id": 5, "className": "far fa-star" }
-    ],
-    "packagesBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
-      },
-      {
-        "id": 10,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 11,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 12,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
-      },
-      {
-        "id": 13,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
-      },
-      {
-        "id": 14,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
-      },
-      {
-        "id": 15,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
-      },
-      {
-        "id": 16,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 17,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 18,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
-      },
-      {
-        "id": 19,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
-      },
-      {
-        "id": 20,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
-      },
-      {
-        "id": 21,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
-      },
-      {
-        "id": 22,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 23,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 24,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
-      }
-    ],
-    "servicesHeading": [
-      { "id": 1, "text": "D", "className": "" },
-      { "id": 2, "text": "Ị", "className": "" },
-      { "id": 3, "text": "C", "className": "" },
-      { "id": 4, "text": "H", "className": "" },
-      { "id": 5, "text": "", "className": "space" },
-      { "id": 6, "text": "V", "className": "" },
-      { "id": 7, "text": "Ụ", "className": "" }
-    ],
-    "servicesBox": [
-      {
-        "id": 1,
-        "icon": "fas fa-hotel",
-        "h3": " Nghỉ dưỡng cao cấp",
-        "p": "some thing..."
-      },
-      {
-        "id": 2,
-        "icon": "fas fa-utensils",
-        "h3": " Dịch vụ ăn uống",
-        "p": "some thing..."
-      },
-      {
-        "id": 3,
-        "icon": "fas fa-bullhorn",
-        "h3": " chính sách an toàn",
-        "p": "some thing..."
-      },
-      {
-        "id": 4,
-        "icon": "fas fa-globe-asia",
-        "h3": " Rộng khắp thế giới",
-        "p": "some thing..."
-      },
-      {
-        "id": 5,
-        "icon": "fas fa-plane",
-        "h3": " Luôn nhanh nhất",
-        "p": "some thing..."
-      },
-      {
-        "id": 6,
-        "icon": "fas fa-hiking",
-        "h3": " sự phiêu lưu",
-        "p": "some thing..."
-      }
-    ],
-    "galleryHeading": [
-      { "id": 1, "text": "T", "className": "" },
-      { "id": 2, "text": "H", "className": "" },
-      { "id": 3, "text": "Ư", "className": "" },
-      { "id": 4, "text": "", "className": "space" },
-      { "id": 5, "text": "V", "className": "" },
-      { "id": 6, "text": "I", "className": "" },
-      { "id": 7, "text": "Ệ", "className": "" },
-      { "id": 8, "text": "N", "className": "" }
-    ],
-    "galleryBox": [
-      {
-        "id": 1,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-1.jpg"
-      },
-      {
-        "id": 2,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-2.jpg"
-      },
-      {
-        "id": 3,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-3.jpg"
-      },
-      {
-        "id": 4,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-4.jpg"
-      },
-      {
-        "id": 5,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-5.jpg"
-      },
-      {
-        "id": 6,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-6.jpg"
-      },
-      {
-        "id": 7,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-7.jpg"
-      },
-      {
-        "id": 8,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-8.jpg"
-      },
-      {
-        "id": 9,
-        "h3": "Ảnh chụp",
-        "p": " những bức ảnh đẹp nhất về chuyến du lịch sẽ được chia sẻ lên đây",
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-9.jpg"
-      }
-    ],
-    "reviewHeading": [
-      { "id": 1, "text": "Đ", "className": "" },
-      { "id": 2, "text": "Á", "className": "" },
-      { "id": 3, "text": "N", "className": "" },
-      { "id": 4, "text": "H", "className": "" },
-      { "id": 5, "text": "", "className": "space" },
-      { "id": 6, "text": "G", "className": "" },
-      { "id": 7, "text": "I", "className": "" },
-      { "id": 8, "text": "Á", "className": "" }
-    ],
-    "ratingStar": [
-      { "id": 1, "type": "radio", "class": "star" },
-      { "id": 2, "type": "radio", "class": "star" },
-      { "id": 3, "type": "radio", "class": "star" },
-      { "id": 4, "type": "radio", "class": "star" },
-      { "id": 5, "type": "radio", "class": "star" },
-      { "id": 6, "type": "radio", "class": "star" },
-      { "id": 7, "type": "radio", "class": "star" },
-      { "id": 8, "type": "radio", "class": "star" },
-      { "id": 9, "type": "radio", "class": "star" },
-      { "id": 10, "type": "radio", "class": "star" }
-    ],
-    "reviewBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic1.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic2.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic3.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic4.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic1.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic2.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic3.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic4.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic1.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 10,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic2.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 11,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic3.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      },
-      {
-        "id": 12,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/pic4.png",
-        "h3": "Dương Nguyễn",
-        "p": "Some text..."
-      }
-    ],
-    "contactHeading": [
-      { "id": 1, "text": "L", "className": "" },
-      { "id": 2, "text": "I", "className": "" },
-      { "id": 3, "text": "Ê", "className": "" },
-      { "id": 4, "text": "N", "className": "" },
-      { "id": 5, "text": "", "className": "space" },
-      { "id": 6, "text": "H", "className": "" },
-      { "id": 7, "text": "Ệ", "className": "" }
-    ],
-    "brandBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/9.jpg"
-      },
-      {
-        "id": 10,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/10.jpg"
-      },
-      {
-        "id": 11,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/11.jpg"
-      },
-      {
-        "id": 12,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/12.jpg"
-      }
-    ]
-  },
-  "gallery": {
-    "HomeHeading": [
-      { "id": 1, "text": "T", "className": "" },
-      { "id": 2, "text": "Ổ", "className": "" },
-      { "id": 3, "text": "N", "className": "" },
-      { "id": 4, "text": "G", "className": "" },
-      { "id": 5, "text": "", "className": "space" },
-      { "id": 6, "text": "H", "className": "" },
-      { "id": 7, "text": "Ợ", "className": "" },
-      { "id": 8, "text": "P", "className": "" }
-    ],
-    "HomeBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/g-9.jpg"
-      }
-    ],
-    "EgyptHeading": [
-      { "id": 1, "text": "E", "className": "" },
-      { "id": 2, "text": "G", "className": "" },
-      { "id": 3, "text": "Y", "className": "" },
-      { "id": 4, "text": "P", "className": "" },
-      { "id": 5, "text": "T", "className": "" }
-    ],
-    "EgyptBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-9.jpg"
-      }
-    ],
-    "HawaiiHeading": [
-      { "id": 1, "text": "H", "className": "" },
-      { "id": 2, "text": "A", "className": "" },
-      { "id": 3, "text": "W", "className": "" },
-      { "id": 4, "text": "A", "className": "" },
-      { "id": 5, "text": "I", "className": "" },
-      { "id": 6, "text": "I", "className": "" }
-    ],
-    "HawaiiBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-9.jpg"
-      }
-    ],
-    "MumbaiHeading": [
-      { "id": 1, "text": "M", "className": "" },
-      { "id": 2, "text": "U", "className": "" },
-      { "id": 3, "text": "M", "className": "" },
-      { "id": 4, "text": "B", "className": "" },
-      { "id": 5, "text": "A", "className": "" },
-      { "id": 6, "text": "I", "className": "" }
-    ],
-    "MumbaiBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-9.jpg"
-      }
-    ],
-    "ParisHeading": [
-      { "id": 1, "text": "P", "className": "" },
-      { "id": 2, "text": "A", "className": "" },
-      { "id": 3, "text": "R", "className": "" },
-      { "id": 4, "text": "I", "className": "" },
-      { "id": 5, "text": "S", "className": "" }
-    ],
-    "ParisBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-9.jpg"
-      }
-    ],
-    "SydneyHeading": [
-      { "id": 1, "text": "S", "className": "" },
-      { "id": 2, "text": "Y", "className": "" },
-      { "id": 3, "text": "D", "className": "" },
-      { "id": 4, "text": "N", "className": "" },
-      { "id": 5, "text": "E", "className": "" },
-      { "id": 6, "text": "Y", "className": "" }
-    ],
-    "SydneyBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-9.jpg"
-      }
-    ],
-    "TokyoHeading": [
-      { "id": 1, "text": "T", "className": "" },
-      { "id": 2, "text": "O", "className": "" },
-      { "id": 3, "text": "K", "className": "" },
-      { "id": 4, "text": "Y", "className": "" },
-      { "id": 5, "text": "O", "className": "" }
-    ],
-    "TokyoBox": [
-      {
-        "id": 1,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg"
-      },
-      {
-        "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg"
-      }
-    ]
   }
-}
+]
