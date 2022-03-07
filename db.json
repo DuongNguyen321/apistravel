@@ -10,11 +10,11 @@
       "Book": {
         "content": "chuyến đi được bình chọn tốt nhất"
       },
-      "reviewuser":{
-        "src1":"https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2":"https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3":"https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4":"https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+      "reviewuser": {
+        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
       },
       "aboutvideo": {
         "src": "https://apiforstravel.herokuapp.com/videos/vid-1.mp4",
@@ -2050,6 +2050,329 @@
       {
         "id": 12,
         "src": "https://apiforstravel.herokuapp.com/images/Home/12.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "HomeHeading": [
+      { "id": 1, "text": "T", "className": "" },
+      { "id": 2, "text": "Ổ", "className": "" },
+      { "id": 3, "text": "N", "className": "" },
+      { "id": 4, "text": "G", "className": "" },
+      { "id": 5, "text": "", "className": "space" },
+      { "id": 6, "text": "H", "className": "" },
+      { "id": 7, "text": "Ợ", "className": "" },
+      { "id": 8, "text": "P", "className": "" }
+    ],
+    "HomeBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Home/g-9.jpg"
+      }
+    ],
+    "EgyptHeading": [
+      { "id": 1, "text": "E", "className": "" },
+      { "id": 2, "text": "G", "className": "" },
+      { "id": 3, "text": "Y", "className": "" },
+      { "id": 4, "text": "P", "className": "" },
+      { "id": 5, "text": "T", "className": "" }
+    ],
+    "EgyptBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Egypt/gallery-img-9.jpg"
+      }
+    ],
+    "HawaiiHeading": [
+      { "id": 1, "text": "H", "className": "" },
+      { "id": 2, "text": "A", "className": "" },
+      { "id": 3, "text": "W", "className": "" },
+      { "id": 4, "text": "A", "className": "" },
+      { "id": 5, "text": "I", "className": "" },
+      { "id": 6, "text": "I", "className": "" }
+    ],
+    "HawaiiBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Hawaii/gallery-img-9.jpg"
+      }
+    ],
+    "MumbaiHeading": [
+      { "id": 1, "text": "M", "className": "" },
+      { "id": 2, "text": "U", "className": "" },
+      { "id": 3, "text": "M", "className": "" },
+      { "id": 4, "text": "B", "className": "" },
+      { "id": 5, "text": "A", "className": "" },
+      { "id": 6, "text": "I", "className": "" }
+    ],
+    "MumbaiBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Mumbai/gallery-img-9.jpg"
+      }
+    ],
+    "ParisHeading": [
+      { "id": 1, "text": "P", "className": "" },
+      { "id": 2, "text": "A", "className": "" },
+      { "id": 3, "text": "R", "className": "" },
+      { "id": 4, "text": "I", "className": "" },
+      { "id": 5, "text": "S", "className": "" }
+    ],
+    "ParisBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Paris/gallery-img-9.jpg"
+      }
+    ],
+    "SydneyHeading": [
+      { "id": 1, "text": "S", "className": "" },
+      { "id": 2, "text": "Y", "className": "" },
+      { "id": 3, "text": "D", "className": "" },
+      { "id": 4, "text": "N", "className": "" },
+      { "id": 5, "text": "E", "className": "" },
+      { "id": 6, "text": "Y", "className": "" }
+    ],
+    "SydneyBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Sydney/gallery-img-9.jpg"
+      }
+    ],
+    "TokyoHeading": [
+      { "id": 1, "text": "T", "className": "" },
+      { "id": 2, "text": "O", "className": "" },
+      { "id": 3, "text": "K", "className": "" },
+      { "id": 4, "text": "Y", "className": "" },
+      { "id": 5, "text": "O", "className": "" }
+    ],
+    "TokyoBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg"
       }
     ]
   }
