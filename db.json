@@ -16,7 +16,6 @@
         "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
         "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
       },
-
       "destinationBox": [
         {
           "id": 1,
@@ -28,49 +27,42 @@
           "id": 2,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-2.jpg",
           "h3": "Đền karnak của Luxor",
-
           "p": "Thung lũng của các vị vua, Đền Karnak, và Đền tưởng niệm Hatshepsut"
         },
         {
           "id": 3,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-3.jpg",
           "h3": "Hồi giáo Cario",
-
           "p": "đầy đủ các nhà thờ Hồi giáo,trường học Hồi giáo và các di tích cổ đại"
         },
         {
           "id": 4,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-4.jpg",
           "h3": "Aswan",
-
           "p": "Thị trấn yên bình nhất của Ai Cập, đặt trên những đường cong của sông Nile"
         },
         {
           "id": 5,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-5.jpg",
           "h3": "Abu simbel",
-
           "p": "Nổi tiếng với tỷ lệ megalithic và được biết đến với ngôi đền của Ramses II"
         },
         {
           "id": 6,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-6.jpg",
           "h3": "Bảo tàng Egyptian",
-
           "p": "Bảo tàng Ai Cập của Cairo là một trong những bộ sưu tập bảo tàng tuyệt vời của thế giới"
         },
         {
           "id": 7,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-7.jpg",
           "h3": "Sa mạc trắng",
-
           "p": "Kỳ quan tự nhiên Sa mạc Trắng trông giống như một vùng đất hoang tuyết ở giữa cát khô cằn"
         },
         {
           "id": 8,
           "src": "https://apiforstravel.herokuapp.com/images/Egypt/des-8.jpg",
           "h3": "Siwa Oasis",
-
           "p": "Siwa là loại thuốc bổ yên tĩnh đến sự hối hả của các thành phố Ai Cập và là một trong những địa điểm đẹp nhất của Tây Sa mạc"
         }
       ],
@@ -886,7 +878,7 @@
           "id": 2,
           "src": "https://apiforstravel.herokuapp.com/images/Paris/blog-2.jpg",
           "a": "Xin visa đi Paris",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "p": "Visa Paris không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
         },
         {
           "id": 3,
@@ -1119,7 +1111,7 @@
           "id": 2,
           "src": "https://apiforstravel.herokuapp.com/images/Sydney/blog-2.jpg",
           "a": "Xin visa đi Sydney",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "p": "Visa Sydney không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
         },
         {
           "id": 3,
@@ -1155,6 +1147,685 @@
           "id": 4,
           "p": "Some test",
           "src": "https://apiforstravel.herokuapp.com/images/Sydney/pic-1.png",
+          "h3": "Some text..."
+        }
+      ],
+      "banner": {
+        "content": "Cùng STravel",
+        "title": "Bắt đầu chuyến đi của bạn",
+        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+      }
+    },
+    {
+      "id": 6,
+      "home": {
+        "name": "Tokyo",
+        "content": "Truyền thống và tương lai",
+        "textcontent": "Thủ đô Tokyo không chỉ là linh hồn của đất nước măt trời mọc mà còn được đánh giá là một trong những thành phố lớn nhất,hiện đại phát triển bậc nhất và đông đúc nhất trên thế giới. Với nhịp sống hối hả của người dân, đến với thủ đô tuyệt vời này, du khách sẽ được cảm nhận sự sôi động trong mỗi khoảnh khắc, mỗi một con đường, hết sức thích hợp cho những vị khách từ phương xa đam mê du lịch khám phá một vùng đất mới năng đọng và hiện đại"
+      },
+      "Book": {
+        "content": "Chuyến đi có giá thấp nhất"
+      },
+      "reviewuser": {
+        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
+        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
+        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
+        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+      },
+
+      "destinationBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-1.jpg",
+          "h3": "Công viên Yoyogi",
+          "p": "công viên lớn nhất Tokyo với những bãi cỏ xanh mướt, rộng và hồ nước xinh đẹp"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-2.jpg",
+          "h3": "Đền thờ Meiji",
+
+          "p": "Nếu đến đây vào sáng chủ nhật, bạn sẽ được xem lễ rước đám cưới theo truyền thống Nhật Bản"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-3.jpg",
+          "h3": "Chợ cá Tsukiji",
+
+          "p": "Chợ cá Tsukiji là khu chợ cá sầm uất và lớn nhất thế giới với diện tích trên 220.000m2 và 1677 gian hàng"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-4.jpg",
+          "h3": "Shinjuku Gyoen",
+
+          "p": "Vườn quốc gia Shinjuku Gyoen là một trong những không gian xanh đẹp nhất Tokyo"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-5.jpg",
+          "h3": "Nhà thi đấu Sumo",
+
+          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-6.jpg",
+          "h3": "Bảo tàng Yayoi Kusama",
+
+          "p": "đậm chất Avant Garde với những trái bí kì quái, gương vô tận và ngập tràn chấm bi huyền ảo"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-7.jpg",
+          "h3": "Sở thú Ueno",
+
+          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-8.jpg",
+          "h3": "Odaiba",
+
+          "p": "khu phố nhỏ nằm trên Vịnh Tokyo Đây là trung tâm giải trí, kiến ​​trúc và ẩm thực tuyệt vời của thành phố"
+        }
+      ],
+      "Destination": {
+        "content": "Những điểm đến ở Tokyo",
+        "title": "Những điểm du lịch bậc nhất"
+      },
+      "servicesBox": [
+        {
+          "id": 1,
+          "icon": "fas fa-globe",
+          "h3": "Rộng khắp thế giới"
+        },
+        {
+          "id": 2,
+          "icon": "fas fa-hiking",
+          "h3": "Những cuộc phiêu lưu"
+        },
+        {
+          "id": 3,
+          "icon": "fas fa-utensils",
+          "h3": "Dịch vụ ăn uống"
+        },
+        {
+          "id": 4,
+          "icon": "fas fa-hotel",
+          "h3": "Nghỉ dưỡng cao cấp"
+        },
+        {
+          "id": 5,
+          "icon": "fas fa-wallet",
+          "h3": "Mức giá tốt nhất"
+        },
+        {
+          "id": 6,
+          "icon": "fas fa-headset",
+          "h3": "Hỗ trợ 24/7"
+        }
+      ],
+      "Services": {
+        "content": "Dịch vụ",
+        "title": "Nâng cao trải nghiệm"
+      },
+      "galleryBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg",
+          "span": "ngôi đền cổ nhất Tokyo",
+          "h3": "Đền Sensoji"
+        },
+        {
+          "id": 2,
+
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg",
+          "span": "Đền Meiji",
+          "h3": "Ngôi đền nổi tiếng nhất của Nhật Bản"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg",
+          "span": "nơi ở của Hoàng gia Nhật Bản",
+          "h3": "Cung điện hoàng gia Tokyo"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg",
+          "span": "tầng quan sát phóng tầm nhìn ra cả thành phố",
+          "h3": "tháp truyền hình Tokyo"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg",
+          "span": "Shibuya là khu vực sầm uất nhất của Tokyo",
+          "h3": "Quảng trường Shibuya"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg",
+          "span": "cái nôi của phong cách thời trang CHẤT nhất Nhật Bản",
+          "h3": "Harajuku"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg",
+          "span": "Ai nói đi Mỹ mới có hình tượng Nữ Thần Tự Do?",
+          "h3": "Odaiba – Vịnh Tokyo"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg",
+          "span": "khu chợ hải sản thuộc hàng lớn nhất thế giới",
+          "h3": "Chợ cá Tsukiji"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg",
+          "span": "Disneyland của Nhật Bản",
+          "h3": "Tokyo Disneysea"
+        }
+      ],
+      "Gallery": {
+        "content": "những bức Ảnh về Tokyo"
+      },
+      "blogBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-1.jpg",
+          "a": "Mang những gì khi đi Tokyo",
+          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-2.jpg",
+          "a": "Xin visa đi Tokyo",
+          "p": "Visa Tokyo không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-3.jpg",
+          "a": "Phương tiện di chuyển",
+          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+        }
+      ],
+      "Blog": {
+        "content": "blogs & posts",
+        "title": "Tìm hiểu thêm về Tokyo"
+      },
+      "ReviewBox": [
+        {
+          "id": 1,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 2,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 3,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 4,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "h3": "Some text..."
+        }
+      ],
+      "banner": {
+        "content": "Cùng STravel",
+        "title": "Bắt đầu chuyến đi của bạn",
+        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+      }
+    },
+    {
+      "id": 7,
+      "home": {
+        "name": "Nga",
+        "content": "Cung điện,Tiếng đàn,Sự yêu đời",
+        "textcontent": "Làm “xao xuyến” du khách bởi vẻ đẹp của nó như phố cổ Arbat, hồ Baikal, nhà thờ thánh Basil hay những ngọn núi hùng vĩ"
+      },
+      "Book": {
+        "content": "Lựa chọn của quản trị viên"
+      },
+      "reviewuser": {
+        "src1": "https://apiforstravel.herokuapp.com/images/Russia/pic-1.png",
+        "src2": "https://apiforstravel.herokuapp.com/images/Russia/pic-2.png",
+        "src3": "https://apiforstravel.herokuapp.com/images/Russia/pic-3.png",
+        "src4": "https://apiforstravel.herokuapp.com/images/Russia/pic-4.png"
+      },
+
+      "destinationBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-1.jpg",
+          "h3": "Cung điện mùa Đông",
+          "p": "Có thể xem cung điện mùa Đông chính là biểu tượng nghệ thuật kiến trúc Nga"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-2.jpg",
+          "h3": "Quảng Trường Đỏ",
+          "p": "nằm ở trung tâm của thủ đô Moscow và được xem là niềm tự hào của nước Nga"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-3.jpg",
+          "h3": "Đại Cung Điện Kremlin",
+          "p": "nơi cử hành hôn lễ của hoàng gia và dùng để tổ chức các nghi lễ trọng đại của đất nước"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-4.jpg",
+          "h3": "Vườn Alexandrovsky",
+          "p": "được tô thắm bởi đủ các loại hoa và cây biểu tượng cho sức sống, tâm hồn người Nga"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-5.jpg",
+          "h3": "Núi lửa Krenitsyn",
+          "p": "đến đây bạn sẽ ngắm nhìn được khung cảnh tựa như tranh với vẻ đẹp tự nhiên từ thời tiền sử."
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-6.jpg",
+          "h3": "Thành tạo đá Manpupuner",
+          "p": "Manpupuner có vẻ đẹp vô cùng hùng vĩ là một trong bảy kỳ quan ở nước Nga"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-7.jpg",
+          "h3": "Đảo Kizhi",
+
+          "p": "hòn đảo Kizhi đã được đưa vào danh sách Di sản Thế giới của UNESCO"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/des-8.jpg",
+          "h3": "Núi khổng lồ Elbrus",
+          "p": "Elbrus là một núi lửa, tuy nhiên từ nhiều nghìn năm trước núi lửa này đã tắt và bị băng tuyết bao phủ"
+        }
+      ],
+      "Destination": {
+        "content": "Những điểm đến ở Nga",
+        "title": "Những điểm du lịch bậc nhất"
+      },
+      "servicesBox": [
+        {
+          "id": 1,
+          "icon": "fas fa-globe",
+          "h3": "Rộng khắp thế giới"
+        },
+        {
+          "id": 2,
+          "icon": "fas fa-hiking",
+          "h3": "Những cuộc phiêu lưu"
+        },
+        {
+          "id": 3,
+          "icon": "fas fa-utensils",
+          "h3": "Dịch vụ ăn uống"
+        },
+        {
+          "id": 4,
+          "icon": "fas fa-hotel",
+          "h3": "Nghỉ dưỡng cao cấp"
+        },
+        {
+          "id": 5,
+          "icon": "fas fa-wallet",
+          "h3": "Mức giá tốt nhất"
+        },
+        {
+          "id": 6,
+          "icon": "fas fa-headset",
+          "h3": "Hỗ trợ 24/7"
+        }
+      ],
+      "Services": {
+        "content": "Dịch vụ",
+        "title": "Nâng cao trải nghiệm"
+      },
+      "galleryBox": [
+        {
+          "id": 1,
+
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-1.jpg",
+          "span": "viên ngọc quý của đất nước Nga",
+          "h3": "Suzdal"
+        },
+        {
+          "id": 2,
+
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-2.jpg",
+          "span": "nằm ngay bên dòng Neva êm ả",
+          "h3": "Nhà thờ Saint Isaac"
+        },
+        {
+          "id": 3,
+
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-3.jpg",
+          "span": "thung lũng suối nước nóng lớn nhất Thế giới",
+          "h3": "Thung lũng Geysers"
+        },
+        {
+          "id": 4,
+
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-4.jpg",
+          "span": "được Unesco chứng nhận là di sản của thế giớ",
+          "h3": "Nhà thờ Hồi Giáo Nurulla"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-5.jpg",
+          "span": "địa điểm du lịch Nga nổi tiếng nhất thế giới",
+          "h3": "Nhà thờ thánh Basil"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-6.jpg",
+          "span": "kiến ​​trúc Baroque, tân cổ điển của thế kỷ 18 và 19",
+          "h3": "Thành phố St.Petersburg"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-7.jpg",
+          "span": "khiến bất kỳ ai khi đi qua đều bâng khuâng khó tả",
+          "h3": "phố cổ Arbat"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-8.jpg",
+          "span": "từ đỉnh tháp, bạn có thể ngắm nhìn toàn bộ thành phố Moskva",
+          "h3": "Tháp Ostankino"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-9.jpg",
+          "span": "được mệnh danh là nơi đẹp và tinh khiết nhất ở Nga",
+          "h3": "Hồ Baikal"
+        }
+      ],
+      "Gallery": {
+        "content": "những bức Ảnh về Nga"
+      },
+      "blogBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/blog-1.jpg",
+          "a": "Mang những gì khi đi Nga",
+          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/blog-2.jpg",
+          "a": "Xin visa đi Nga",
+          "p": "Visa Nga không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/blog-3.jpg",
+          "a": "Phương tiện di chuyển",
+          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+        }
+      ],
+      "Blog": {
+        "content": "blogs & posts",
+        "title": "Tìm hiểu thêm về Nga"
+      },
+      "ReviewBox": [
+        {
+          "id": 1,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 2,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 3,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 4,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/Russia/pic-1.png",
+          "h3": "Some text..."
+        }
+      ],
+      "banner": {
+        "content": "Cùng STravel",
+        "title": "Bắt đầu chuyến đi của bạn",
+        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+      }
+    },
+    {
+      "id": 8,
+      "home": {
+        "name": "Trung Quốc",
+        "content": "Đất nước 3500 năm lịch sử",
+        "textcontent": "Trung Quốc với nền văn hóa ngàn năm văn hiến, diện tích lớn thứ 4 thế giới luôn là điểm đến du lịch thú vị. Những địa điểm du lịch Trung Quốc nào đang khiến các tín đồ mê xê dịch thích mê"
+      },
+      "Book": {
+        "content": "Lựa Chọn của quản trị viên"
+      },
+      "reviewuser": {
+        "src1": "https://apiforstravel.herokuapp.com/images/China/pic-1.png",
+        "src2": "https://apiforstravel.herokuapp.com/images/China/pic-2.png",
+        "src3": "https://apiforstravel.herokuapp.com/images/China/pic-3.png",
+        "src4": "https://apiforstravel.herokuapp.com/images/China/pic-4.png"
+      },
+
+      "destinationBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-1.jpg",
+          "h3": "Vạn Lý Trường Thành",
+          "p": "chiều dài lên tới hơn 8.000 km, trải dài qua hơn 15 tỉnh của Trung Quốc"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-2.jpg",
+          "h3": "Tử Cấm Thành",
+          "p": "Đây là cung điện cổ nhất thế giới, được UNESCO công nhận là di sản văn hóa thế giới"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-3.jpg",
+          "h3": "Bến Thượng Hải",
+          "p": "Đây là một địa điểm đã được đưa vào nhiều bộ phim Trung Quốc. Thượng Hải là một trong những hải cảng sầm uất nhất thế giới"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-4.jpg",
+          "h3": "Di Hòa Viên",
+          "p": "Di Hòa Viên còn được coi là biểu trưng cho nghệ thuật hoa viên truyền thống của Trung Quốc"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-5.jpg",
+          "h3": "Chùa treo Huyền Không",
+          "p": "Kiến trúc của ngôi chùa vô cùng đặc biệt, trông xa không khác gì như những đóa hoa mọc trên sườn núi cheo leo vậy"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-6.jpg",
+          "h3": "Lạc Sơn Đại Phật",
+          "p": "Đây là tượng Phật bằng đá lớn nhất thế giới tọa lạc ở núi Lăng Vân, tỉnh Tứ Xuyên, Trung Quốc."
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-7.jpg",
+          "h3": "Cửu Trại Câu",
+          "p": "Nơi này nổi tiếng với cảnh sắc tuyệt đẹp, phong cảnh hữu tình như bức tranh tiên cảnh,là một trong những thắng cảnh đẹp nhất Trung Quốc."
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/China/des-8.jpg",
+          "h3": "Hồ Nguyệt Nha Tuyền",
+          "p": "Hồ Nguyệt Nha Tuyền đặc biệt bởi vì nó nằm giữa sa mạc Gobi, thuộc tỉnh Cam Túc"
+        }
+      ],
+      "Destination": {
+        "content": "Những điểm đến ở Trung Quốc",
+        "title": "Những điểm du lịch bậc nhất"
+      },
+      "servicesBox": [
+        {
+          "id": 1,
+          "icon": "fas fa-globe",
+          "h3": "Rộng khắp thế giới"
+        },
+        {
+          "id": 2,
+          "icon": "fas fa-hiking",
+          "h3": "Những cuộc phiêu lưu"
+        },
+        {
+          "id": 3,
+          "icon": "fas fa-utensils",
+          "h3": "Dịch vụ ăn uống"
+        },
+        {
+          "id": 4,
+          "icon": "fas fa-hotel",
+          "h3": "Nghỉ dưỡng cao cấp"
+        },
+        {
+          "id": 5,
+          "icon": "fas fa-wallet",
+          "h3": "Mức giá tốt nhất"
+        },
+        {
+          "id": 6,
+          "icon": "fas fa-headset",
+          "h3": "Hỗ trợ 24/7"
+        }
+      ],
+      "Services": {
+        "content": "Dịch vụ",
+        "title": "Nâng cao trải nghiệm"
+      },
+      "galleryBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-1.jpg",
+          "span": "công trình chạm khắc cổ đại tuyệt đẹp",
+          "h3": "Hang đá Long Môn"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-2.jpg",
+          "span": "công trình lịch sử quan trọng của Trung Quốc",
+          "h3": "Lăng mộ Tần Thủy Hoàng"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-3.jpg",
+          "span": "thiên nhiên hùng vĩ tựa như chốn tiên cảnh",
+          "h3": "Công viên Trương Gia Giới"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-4.jpg",
+          "span": "địa điểm mà giới trẻ Việt Nam gần đây rất yêu thích.",
+          "h3": "Phượng Hoàng Cổ Trấn"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-5.jpg",
+          "span": "kiến trúc vô cùng độc đáo và những món đồ nghệ thuận cổ điển",
+          "h3": "Bảo tàng nghệ thuật Thượng Hải"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-6.jpg",
+          "span": "vẻ đẹp đồ sộ với kiến trúc của cung điện vô cùng tráng lệ",
+          "h3": "Thiên An Môn"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-7.jpg",
+          "span": "Nơi đây đã tồn tại từ thời nhà Nguyên",
+          "h3": "Phố cổ Hutong"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-8.jpg",
+          "span": "tổng diện tích 250.000m² có sức chứa lên tới 91.000 người",
+          "h3": "Sân vận động Olympic"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-9.jpg",
+          "span": "nơi mua sắm với rất nhiều cửa hàng thủ công mỹ nghệ",
+          "h3": "Vương Phủ Tỉnh"
+        }
+      ],
+      "Gallery": {
+        "content": "những bức Ảnh về Trung Quốc"
+      },
+      "blogBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/China/blog-1.jpg",
+          "a": "Mang những gì khi đi Trung Quốc",
+          "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/China/blog-2.jpg",
+          "a": "Xin visa đi Trung Quốc",
+          "p": "Visa Trung Quốc không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/China/blog-3.jpg",
+          "a": "Phương tiện di chuyển",
+          "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
+        }
+      ],
+      "Blog": {
+        "content": "blogs & posts",
+        "title": "Tìm hiểu thêm về Trung Quốc"
+      },
+      "ReviewBox": [
+        {
+          "id": 1,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/China/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 2,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/China/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 3,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/China/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 4,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/China/pic-1.png",
           "h3": "Some text..."
         }
       ],
@@ -1352,7 +2023,7 @@
           "id": 2,
           "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-2.jpg",
           "a": "Xin visa đi Tokyo",
-          "p": "Visa Ai Cập không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "p": "Visa Tokyo không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
         },
         {
           "id": 3,
@@ -1416,69 +2087,16 @@
       { "id": 10, "className": "", "text": "I" }
     ],
     "bookSelect": [
-      { "id": 62, "defaultValue": "Vietnam" },
-      { "id": 0, "defaultValue": "America" },
-      { "id": 1, "defaultValue": "China" },
-      { "id": 2, "defaultValue": "Colombia" },
-      { "id": 3, "defaultValue": "Congo" },
-      { "id": 4, "defaultValue": "Cuba" },
-      { "id": 5, "defaultValue": "Cyprus" },
-      { "id": 6, "defaultValue": "Dominica" },
-      { "id": 7, "defaultValue": "Ecuador" },
-      { "id": 8, "defaultValue": "Egypt" },
-      { "id": 9, "defaultValue": "Ethiopia" },
-      { "id": 10, "defaultValue": "France" },
-      { "id": 11, "defaultValue": "Georgia" },
-      { "id": 12, "defaultValue": "Germany" },
-      { "id": 13, "defaultValue": "Greenland" },
-      { "id": 14, "defaultValue": "Guam" },
-      { "id": 15, "defaultValue": "Guyana" },
-      { "id": 16, "defaultValue": "Kong Kong" },
-      { "id": 17, "defaultValue": "Hungary" },
-      { "id": 18, "defaultValue": "ChiIcelandna" },
-      { "id": 19, "defaultValue": "India" },
-      { "id": 20, "defaultValue": "Indonesia" },
-      { "id": 21, "defaultValue": "Iran" },
-      { "id": 22, "defaultValue": "Iraq" },
-      { "id": 23, "defaultValue": "Ireland" },
-      { "id": 24, "defaultValue": "Israel" },
-      { "id": 25, "defaultValue": "Japan" },
-      { "id": 26, "defaultValue": "Lao" },
-      { "id": 27, "defaultValue": "Liberia" },
-      { "id": 28, "defaultValue": "Macau" },
-      { "id": 29, "defaultValue": "Malaysia" },
-      { "id": 30, "defaultValue": "Malta" },
-      { "id": 31, "defaultValue": "Mexico" },
-      { "id": 32, "defaultValue": "Monaco" },
-      { "id": 33, "defaultValue": "Morocco" },
-      { "id": 34, "defaultValue": "Myanmar" },
-      { "id": 35, "defaultValue": "Nauru" },
-      { "id": 36, "defaultValue": "Nepal" },
-      { "id": 37, "defaultValue": "New Zealand" },
-      { "id": 38, "defaultValue": "Nigeria" },
-      { "id": 39, "defaultValue": "Oman" },
-      { "id": 40, "defaultValue": "Pakistan" },
-      { "id": 41, "defaultValue": "Peru" },
-      { "id": 42, "defaultValue": "Philippines" },
-      { "id": 43, "defaultValue": "Qatar" },
-      { "id": 44, "defaultValue": "Russia" },
-      { "id": 45, "defaultValue": "Singapore" },
-      { "id": 46, "defaultValue": "Span" },
-      { "id": 47, "defaultValue": "SriLanka" },
-      { "id": 48, "defaultValue": "ChiSudanna" },
-      { "id": 49, "defaultValue": "Syria" },
-      { "id": 50, "defaultValue": "Taiwan" },
-      { "id": 51, "defaultValue": "Thailand" },
-      { "id": 52, "defaultValue": "Tunisia" },
-      { "id": 53, "defaultValue": "Turkey" },
-      { "id": 54, "defaultValue": "ChUkraineina" },
-      { "id": 55, "defaultValue": "United States" },
-      { "id": 56, "defaultValue": "United Kingdom" },
-      { "id": 57, "defaultValue": "Uzbekistan" },
-      { "id": 58, "defaultValue": "Venezuela" },
-      { "id": 59, "defaultValue": "Serbia" },
-      { "id": 60, "defaultValue": "Zambia" },
-      { "id": 61, "defaultValue": "Zimbabwe" }
+      { "id": 1, "defaultValue": "Việt Nam" },
+      { "id": 2, "defaultValue": "Ai Cập" },
+      { "id": 3, "defaultValue": "Mỹ" },
+      { "id": 4, "defaultValue": "Ấn Độ" },
+      { "id": 5, "defaultValue": "Pháp" },
+      { "id": 6, "defaultValue": "Úc" },
+      { "id": 7, "defaultValue": "Nhật Bản" },
+      { "id": 8, "defaultValue": "Nga" },
+      { "id": 9, "defaultValue": "Trung Quốc" },
+      { "id": 10, "defaultValue": "Anh" }
     ],
     "packagesHeading": [
       { "id": 1, "text": "Ư", "className": "" },
@@ -1608,126 +2226,6 @@
       },
       {
         "id": 12,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
-      },
-      {
-        "id": 13,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
-      },
-      {
-        "id": 14,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
-      },
-      {
-        "id": 15,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
-      },
-      {
-        "id": 16,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 17,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 18,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
-      },
-      {
-        "id": 19,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
-      },
-      {
-        "id": 20,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
-      },
-      {
-        "id": 21,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
-      },
-      {
-        "id": 22,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 23,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 24,
         "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
         "h3": " Egypt",
         "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
