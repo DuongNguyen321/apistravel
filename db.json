@@ -1206,7 +1206,7 @@
           "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-5.jpg",
           "h3": "Nhà thi đấu Sumo",
 
-          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          "p": "Nếu đến Tokyo và đủ may mắn thì bạn sẽ được xem đấu sumo khi giải đấu sumo diễn ra"
         },
         {
           "id": 6,
@@ -2385,63 +2385,43 @@
       },
       {
         "id": 7,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
-        "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
-        "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
-        "price": "30.000.000 ",
-        "spanPrice": "52.845.245",
-        "href": "/mumbai"
+        "src": "https://apiforstravel.herokuapp.com/images/Home/p-7.jpg",
+        "h3": "Lào cai",
+        "p1": "Lào cai-Bốn mùa trong một ngày đêm",
+        "p2": "Điểm đến ưa thích trong nước",
+        "price": "10.000.000 ",
+        "spanPrice": "12.845.245",
+        "href": "/laocai"
       },
       {
         "id": 8,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-2.jpg",
-        "h3": " hawaii",
-        "p1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
-        "p2": "kỳ nghỉ dưỡng được đánh giá cao nhất",
-        "price": "50.000.000 ",
-        "spanPrice": "65.124.756",
-        "href": "/hawaii"
+        "src": "https://apiforstravel.herokuapp.com/images/Home/p-8.jpg",
+        "h3": " Nga",
+        "p1": "Nga-Cung điện,Tiếng đàn,Sự yêu đời",
+        "p2": "Lựa chọn của quản trị viên",
+        "price": "30.000.000 ",
+        "spanPrice": "45.124.756",
+        "href": "/russia"
       },
       {
         "id": 9,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
-        "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
-        "p2": "chuyến đi có ưu đãi tốt nhất",
+        "src": "https://apiforstravel.herokuapp.com/images/Home/p-9.jpg",
+        "h3": "Trung Quốc",
+        "p1": "Trung Quốc-Đất nước 3500 năm lịch sử",
+        "p2": "Lựa Chọn của quản trị viên",
         "price": "30.000.000 ",
-        "spanPrice": "73.354.657",
-        "href": "/sydney"
+        "spanPrice": "63.354.657",
+        "href": "/china"
       },
       {
         "id": 10,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
-        "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
-        "p2": "chuyến đi được đặt nhiều nhất",
-        "price": "30.000.000 ",
+        "src": "https://apiforstravel.herokuapp.com/images/Home/p-10.jpg",
+        "h3": "Nước Anh",
+        "p1": "England-đất nước Mặt Trời không bao giờ lặn",
+        "p2": "Lựa chọn của quản trị viên",
+        "price": "40.000.000 ",
         "spanPrice": "83.534.978",
-        "href": "/paris"
-      },
-      {
-        "id": 11,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
-        "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
-        "p2": "chuyến đi có giá thấp nhất",
-        "price": "6.500.000 ",
-        "spanPrice": "10.000.000",
-        "href": "/tokyo"
-      },
-      {
-        "id": 12,
-        "src": "https://apiforstravel.herokuapp.com/images/Home/p-6.jpg",
-        "h3": " Egypt",
-        "p1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
-        "p2": "chuyến đi được bình chọn tốt nhất",
-        "price": "48.000.000 ",
-        "spanPrice": "54.346.456",
-        "href": "/egypt"
+        "href": "/england"
       }
     ],
     "servicesHeading": [
