@@ -2296,16 +2296,76 @@
       { "id": 10, "className": "", "text": "I" }
     ],
     "bookSelect": [
-      { "id": 1, "defaultValue": "Lào Cai" },
-      { "id": 2, "defaultValue": "Ai Cập" },
-      { "id": 3, "defaultValue": "Mỹ" },
-      { "id": 4, "defaultValue": "Ấn Độ" },
-      { "id": 5, "defaultValue": "Pháp" },
-      { "id": 6, "defaultValue": "Úc" },
-      { "id": 7, "defaultValue": "Nhật Bản" },
-      { "id": 8, "defaultValue": "Nga" },
-      { "id": 9, "defaultValue": "Trung Quốc" },
-      { "id": 10, "defaultValue": "Anh" }
+      {
+        "id": 1,
+        "defaultValue": "Lào Cai",
+        "link": "/laocai",
+        "content1": "Lào cai-Bốn mùa trong một ngày đêm",
+        "content2": "Điểm đến ưa thích trong nước"
+      },
+      {
+        "id": 2,
+        "defaultValue": "Egypt",
+        "link": "/egypt",
+        "content1": "Egypt-vùng đất của Pharaohs và kỳ quan thế giới cổ đại",
+        "content2": "chuyến đi được bình chọn tốt nhất"
+      },
+      {
+        "id": 3,
+        "defaultValue": "Hawaii",
+        "link": "/hawaii",
+        "content1": "hawaii-hòn đảo muôn màu và thiên đường của người chơi lướt ván",
+        "content2": "kỳ nghỉ dưỡng được đánh giá cao nhất"
+      },
+      {
+        "id": 4,
+        "defaultValue": "Sydney",
+        "link": "/sydney",
+        "content1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
+        "content2": "chuyến đi có ưu đãi tốt nhất"
+      },
+      {
+        "id": 5,
+        "defaultValue": "Paris",
+        "link": "/paris",
+        "content1": "Paris-Kinh đô thời trang và thành phố về đêm",
+        "content2": "chuyến đi được đặt nhiều nhất"
+      },
+      {
+        "id": 6,
+        "defaultValue": "Tokyo",
+        "link": "/tokyo",
+        "content1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
+        "content2": "chuyến đi có giá thấp nhất"
+      },
+      {
+        "id": 7,
+        "defaultValue": "Nga",
+        "link": "/russia",
+        "content1": "Nga-Cung điện,Tiếng đàn,Sự yêu đời",
+        "content2": "Lựa chọn của quản trị viên"
+      },
+      {
+        "id": 8,
+        "defaultValue": "Nước Anh",
+        "link": "/england",
+        "content1": "England-đất nước Mặt Trời không bao giờ lặn",
+        "content2": "Lựa chọn của quản trị viên"
+      },
+      {
+        "id": 9,
+        "defaultValue": "Trung Quốc",
+        "link": "/china",
+        "content1": "Trung Quốc-Đất nước 3500 năm lịch sử",
+        "content2": "Lựa chọn của quản trị viên"
+      },
+      {
+        "id": 10,
+        "defaultValue": "Mumbai",
+        "link": "/mumbai",
+        "content1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
+        "content2": "Chuyến đi được tìm kiếm nhiểu nhất"
+      }
     ],
     "packagesHeading": [
       { "id": 1, "text": "Ư", "className": "" },
@@ -2326,7 +2386,7 @@
       {
         "id": 1,
         "src": "https://apiforstravel.herokuapp.com/images/Home/p-1.jpg",
-        "h3": " mumbai",
+        "h3": "mumbai",
         "p1": "Mumbai-Thành phố của nơi giao thoa giữa quá khứ-hiện tại",
         "p2": "Chuyến đi được tìm kiếm nhiểu nhất",
         "price": "30.000.000 ",
@@ -2346,7 +2406,7 @@
       {
         "id": 3,
         "src": "https://apiforstravel.herokuapp.com/images/Home/p-3.jpg",
-        "h3": " sydney",
+        "h3": "sydney",
         "p1": "Sydney-xứ sở chuột túi và nhà hát SYDNEY OPERA HOUSE",
         "p2": "chuyến đi có ưu đãi tốt nhất",
         "price": "30.000.000 ",
@@ -2356,7 +2416,7 @@
       {
         "id": 4,
         "src": "https://apiforstravel.herokuapp.com/images/Home/p-4.jpg",
-        "h3": " paris",
+        "h3": "paris",
         "p1": "Paris-Kinh đô thời trang và thành phố về đêm",
         "p2": "chuyến đi được đặt nhiều nhất",
         "price": "30.000.000 ",
@@ -2366,7 +2426,7 @@
       {
         "id": 5,
         "src": "https://apiforstravel.herokuapp.com/images/Home/p-5.jpg",
-        "h3": " tokyo",
+        "h3": "tokyo",
         "p1": "tokyo-thủ đô có sư giao thoa hài hoà giữa truyền thống và hiện đại",
         "p2": "chuyến đi có giá thấp nhất",
         "price": "6.500.000 ",
