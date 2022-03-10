@@ -1836,81 +1836,73 @@
       }
     },
     {
-      "id": 6,
+      "id": 9,
       "home": {
-        "name": "Tokyo",
-        "content": "Truyền thống và tương lai",
-        "textcontent": "Thủ đô Tokyo không chỉ là linh hồn của đất nước măt trời mọc mà còn được đánh giá là một trong những thành phố lớn nhất,hiện đại phát triển bậc nhất và đông đúc nhất trên thế giới. Với nhịp sống hối hả của người dân, đến với thủ đô tuyệt vời này, du khách sẽ được cảm nhận sự sôi động trong mỗi khoảnh khắc, mỗi một con đường, hết sức thích hợp cho những vị khách từ phương xa đam mê du lịch khám phá một vùng đất mới năng đọng và hiện đại"
+        "name": "England",
+        "content": "đất nước Mặt Trời không bao giờ lặn",
+        "textcontent": "Nước Anh được mệnh danh là “đất nước Mặt Trời không bao giờ lặn”, là trung tâm kinh tế hàng đầu thế giới và cũng là một trong những trung tâm văn hóa có ảnh hưởng lớn nhất thế giới. Anh là nơi khởi nguồn cho ngôn ngữ phổ biến nhất thế giới hiện nay, tiếng Anh. Một nền giáo dục hàng đầu thế giới, với chuyên ngành đa dạng, đội ngũ giảng viên chuyên nghiệp và cơ sở vật chất hiện đại tạo nên nét nổi bật ở Anh thu hút hàng trăm ngàn học sinh, sinh viên từ các nước hằng năm. Vương quốc Anh bao gồm nước Anh, xứ Wales, Scotland (tạo thành Liên hiệp Anh) và Bắc Ai-len."
       },
       "Book": {
-        "content": "Chuyến đi có giá thấp nhất"
+        "content": "Lựa chọn của quản trị viên"
       },
       "reviewuser": {
-        "src1": "https://apiforstravel.herokuapp.com/images/Egypt/pic-1.png",
-        "src2": "https://apiforstravel.herokuapp.com/images/Egypt/pic-2.png",
-        "src3": "https://apiforstravel.herokuapp.com/images/Egypt/pic-3.png",
-        "src4": "https://apiforstravel.herokuapp.com/images/Egypt/pic-4.png"
+        "src1": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
+        "src2": "https://apiforstravel.herokuapp.com/images/England/pic-2.png",
+        "src3": "https://apiforstravel.herokuapp.com/images/England/pic-3.png",
+        "src4": "https://apiforstravel.herokuapp.com/images/England/pic-4.png"
       },
-
       "destinationBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-1.jpg",
-          "h3": "Công viên Yoyogi",
-          "p": "công viên lớn nhất Tokyo với những bãi cỏ xanh mướt, rộng và hồ nước xinh đẹp"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-1.jpg",
+          "h3": "Vòng xoay thiên niên kỷ",
+          "p": "Đây chính là niềm tự hào của người dân Anh quốc"
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-2.jpg",
-          "h3": "Đền thờ Meiji",
-
-          "p": "Nếu đến đây vào sáng chủ nhật, bạn sẽ được xem lễ rước đám cưới theo truyền thống Nhật Bản"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-2.jpg",
+          "h3": "Đồng hồ Elizabeth",
+          "p": "Biểu tượng của thành phố London chính là đồng hồ Big Ben (nay đã đổi tên thành đồng hồ Elizabeth)"
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-3.jpg",
-          "h3": "Chợ cá Tsukiji",
-
-          "p": "Chợ cá Tsukiji là khu chợ cá sầm uất và lớn nhất thế giới với diện tích trên 220.000m2 và 1677 gian hàng"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-3.jpg",
+          "h3": "Cung điện hoàng gia",
+          "p": "Cung điện được bao bọc bởi 3 công viên. Đây không chỉ là nơi ở của Hoàng gia Anh mà còn là nơi tổ chức các sự kiện đặc biệt của quốc gia này"
         },
         {
           "id": 4,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-4.jpg",
-          "h3": "Shinjuku Gyoen",
-
-          "p": "Vườn quốc gia Shinjuku Gyoen là một trong những không gian xanh đẹp nhất Tokyo"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-4.jpg",
+          "h3": "Nhà thờ Chester",
+          "p": "Chester thành lập từ năm 79 TCN, như là căn cứ của đế chế La Mã, mở rộng ở phía bắc"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-5.jpg",
-          "h3": "Nhà thi đấu Sumo",
-
-          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-5.jpg",
+          "h3": "Bảo tàng Grosvenor",
+          "p": " Những di tích để lại sau cuộc chiến giữa quân Anh và La Mã luôn mang lại nhiều cảm xúc khó quên cho du khách khi ghé thăm nơi này."
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-6.jpg",
-          "h3": "Bảo tàng Yayoi Kusama",
-
-          "p": "đậm chất Avant Garde với những trái bí kì quái, gương vô tận và ngập tràn chấm bi huyền ảo"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-6.jpg",
+          "h3": "Công viên thành phố Chester",
+          "p": "Nơi đây là nhà của hơn 11.000 loài động vật đại diện cho khoảng 400 loài hoàn toàn khác nhau"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-7.jpg",
-          "h3": "Sở thú Ueno",
-
-          "p": "Đây là vườn thú lâu đời nhất của Nhật Bản, nổi tiếng với những chú gấu trúc được được sang từ Trung Quốc"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-7.jpg",
+          "h3": "Quảng trường Chợ Cũ",
+          "p": "Quảng trường Chợ Cũ chính là trung tâm du lịch Nottingha, Nơi đây là một không gian công cộng lớn nhất ở Anh"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/des-8.jpg",
-          "h3": "Odaiba",
-
-          "p": "khu phố nhỏ nằm trên Vịnh Tokyo Đây là trung tâm giải trí, kiến ​​trúc và ẩm thực tuyệt vời của thành phố"
+          "src": "https://apiforstravel.herokuapp.com/images/England/des-8.jpg",
+          "h3": "Chợ Rent",
+          "p": "Đây từng là trung tâm của ngành công nghiệp ren. Nó được coi là một trong những khu di sản quan trọng nhất của thành phố"
         }
       ],
       "Destination": {
-        "content": "Những điểm đến ở Tokyo",
+        "content": "Những điểm đến ở nước Anh",
         "title": "Những điểm du lịch bậc nhất"
       },
       "servicesBox": [
@@ -1952,113 +1944,330 @@
       "galleryBox": [
         {
           "id": 1,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-1.jpg",
-          "span": "ngôi đền cổ nhất Tokyo",
-          "h3": "Đền Sensoji"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-1.jpg",
+          "span": "Từ lâu đài Nottingham có thể nhìn toàn cảnh thị trấn",
+          "h3": "Lâu đài Nottingham"
         },
         {
           "id": 2,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-2.jpg",
-          "span": "Đền Meiji",
-          "h3": "Ngôi đền nổi tiếng nhất của Nhật Bản"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-2.jpg",
+          "span": "Lâu đài Nottingham",
+          "h3": "ngôi nhà kiểu nông thôn thế kỷ 17"
         },
         {
           "id": 3,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-3.jpg",
-          "span": "nơi ở của Hoàng gia Nhật Bản",
-          "h3": "Cung điện hoàng gia Tokyo"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-3.jpg",
+          "span": "thành cổ đẹp nhất châu Âu",
+          "h3": "Thành York"
         },
         {
           "id": 4,
-
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-4.jpg",
-          "span": "tầng quan sát phóng tầm nhìn ra cả thành phố",
-          "h3": "tháp truyền hình Tokyo"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-4.jpg",
+          "span": "nơi sinh sống của dòng họ quyền quý Howard",
+          "h3": "Lâu đài Howard"
         },
         {
           "id": 5,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-5.jpg",
-          "span": "Shibuya là khu vực sầm uất nhất của Tokyo",
-          "h3": "Quảng trường Shibuya"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-5.jpg",
+          "span": "một trong những bảo tàng hàng đầu ở Châu Âu",
+          "h3": "Bảo tàng Fitzwilliam"
         },
         {
           "id": 6,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-6.jpg",
-          "span": "cái nôi của phong cách thời trang CHẤT nhất Nhật Bản",
-          "h3": "Harajuku"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-6.jpg",
+          "span": "Nhà thờ được xây dựng vào thế kỷ thứ 15.",
+          "h3": "Nhà thờ lớn St. Mary"
         },
         {
           "id": 7,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-7.jpg",
-          "span": "Ai nói đi Mỹ mới có hình tượng Nữ Thần Tự Do?",
-          "h3": "Odaiba – Vịnh Tokyo"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-7.jpg",
+          "span": "được UNESCO công nhận là di sản thế giới",
+          "h3": "Stonehenge"
         },
         {
           "id": 8,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-8.jpg",
-          "span": "khu chợ hải sản thuộc hàng lớn nhất thế giới",
-          "h3": "Chợ cá Tsukiji"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-8.jpg",
+          "span": "sở thú khoa học lâu đời nhất của thế giới",
+          "h3": "London Zoo"
         },
         {
           "id": 9,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg",
-          "span": "Disneyland của Nhật Bản",
-          "h3": "Tokyo Disneysea"
+          "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-9.jpg",
+          "span": "công viên lớn nhất và nổi tiếng tại nước Anh",
+          "h3": "Hyde Park Winter"
         }
       ],
       "Gallery": {
-        "content": "những bức Ảnh về Tokyo"
+        "content": "những bức Ảnh về England"
       },
       "blogBox": [
         {
           "id": 1,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-1.jpg",
-          "a": "Mang những gì khi đi Tokyo",
+          "src": "https://apiforstravel.herokuapp.com/images/England/blog-1.jpg",
+          "a": "Mang những gì khi đi England",
           "p": "Giấy tờ tuỳ thân, giấy xác minh tài chính, visa, Vé máy bay, trang phục, đồ dùng cá nhân, balo, túi đựng đồ..."
         },
         {
           "id": 2,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-2.jpg",
-          "a": "Xin visa đi Tokyo",
-          "p": "Visa Tokyo không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
+          "src": "https://apiforstravel.herokuapp.com/images/England/blog-2.jpg",
+          "a": "Xin visa đi England",
+          "p": "Visa England không khó xin, thủ tục đơn giản gồm đơn tải từ trang web chính thức của Đại sứ quán..."
         },
         {
           "id": 3,
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/blog-3.jpg",
+          "src": "https://apiforstravel.herokuapp.com/images/England/blog-3.jpg",
           "a": "Phương tiện di chuyển",
           "p": "bạn có thể đi xe bus, tàu lửa, tàu thủy hoặc thú vị hơn có thể cưỡi lạc đà hoặc ngựa đều được..."
         }
       ],
       "Blog": {
         "content": "blogs & posts",
-        "title": "Tìm hiểu thêm về Tokyo"
+        "title": "Tìm hiểu thêm về England"
       },
       "ReviewBox": [
         {
           "id": 1,
           "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
           "h3": "Some text..."
         },
         {
           "id": 2,
           "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
           "h3": "Some text..."
         },
         {
           "id": 3,
           "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
           "h3": "Some text..."
         },
         {
           "id": 4,
           "p": "Some test",
-          "src": "https://apiforstravel.herokuapp.com/images/Tokyo/pic-1.png",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
+          "h3": "Some text..."
+        }
+      ],
+      "banner": {
+        "content": "Cùng STravel",
+        "title": "Bắt đầu chuyến đi của bạn",
+        "textcontent": " Mỗi chuyến đi đều là một kỷ niệm đẹp. Hãy cùng STravel ghi lại kỷ niệm này !"
+      }
+    },
+    {
+      "id": 10,
+      "home": {
+        "name": "Lào Cai",
+        "content": "Bốn mùa trong một ngày đêm",
+        "textcontent": "Lào Cai được World Travel Awards vinh danh là “Điểm du lịch văn hóa hấp dẫn hàng đầu thế giới 2019” và “Khách sạn có thiết kế hàng đầu thế giới” cùng giải thưởng đặc biệt “Khách sạn biểu tượng của thế giới”. Năm 2020, du lịch Lào Cai lại tiếp tục tỏa sáng trên đấu trường quốc tế với giải thưởng Điểm du lịch văn hóa hấp dẫn hàng đầu Thế giới 2020 – Sun World Fansipan Legend và Hotel De La Coupole - MGallery năm thứ hai liên tiếp trở thành Khách sạn biểu tượng hàng đầu Thế giới"
+      },
+      "Book": {
+        "content": "Điểm đến ưa thích trong nước"
+      },
+      "reviewuser": {
+        "src1": "https://apiforstravel.herokuapp.com/images/Laocai/pic-1.png",
+        "src2": "https://apiforstravel.herokuapp.com/images/Laocai/pic-2.png",
+        "src3": "https://apiforstravel.herokuapp.com/images/Laocai/pic-3.png",
+        "src4": "https://apiforstravel.herokuapp.com/images/Laocai/pic-4.png"
+      },
+      "destinationBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-1.jpg",
+          "h3": "Đền Bảo Hà",
+          "p": "Có sự kết hợp hài hoà giữa cảnh quan thiên nhiên với kiến trúc văn hoá truyền thống của dân tộc Việt Nam"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-2.jpg",
+          "h3": "Đền Mẫu",
+          "p": "Các pho tượng thờ ở trong đền đều được sơn son thiếp vàng và mang dáng vẻ uy nghi"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-3.jpg",
+          "h3": "Đền Thượng",
+          "p": "Được xây dựng theo lối kiến trúc cổ hình chữ Công. Tuân theo thuyết phong thuỷ vừa đường bệ mà lại rất trang nghiêm"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-4.jpg",
+          "h3": "Thác Tình Yêu",
+          "p": "một địa danh thu hút rất nhiều những cặp đôi tới tham quan và lưu lại những kỉ niệm tình cảm bên nhau"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-5.jpg",
+          "h3": "Đỉnh Bạch Mộc Lương Tử",
+          "p": " một trong 4 đỉnh núi cao nhất Việt Nam. Dãy núi có địa hình khá hiểm trở, là địa điểm phượt Tây Bắc hấp dẫn được dân phượt"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-6.jpg",
+          "h3": "Vườn Quốc Gia Hoàng Liên",
+          "p": "Vườn Quốc gia Hoàng Liên được xem là một trong những khu rừng đặc dụng quan trọng và lớn nhất của Việt Nam"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-7.jpg",
+          "h3": "Núi Cô Tiên",
+          "p": "Từ chân núi ta bắt gặp vẻ đẹp của những ngôi làng, những cánh đồng bát ngát, ruộng bậc thang đặc trưng của vùng đất này"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/des-8.jpg",
+          "h3": "Lâm Viên Thuỷ Hoa",
+          "p": "Với địa thế tuyệt đẹp, nằm giữa không gian rộng lớn của cánh đồng với dòng suối thơ mộng, không khí trong lành sẽ làm bạn cảm thấy thật thoải mái"
+        }
+      ],
+      "Destination": {
+        "content": "Những điểm đến ở nước Lào Cai",
+        "title": "Những điểm du lịch bậc nhất"
+      },
+      "servicesBox": [
+        {
+          "id": 1,
+          "icon": "fas fa-globe",
+          "h3": "Rộng khắp thế giới"
+        },
+        {
+          "id": 2,
+          "icon": "fas fa-hiking",
+          "h3": "Những cuộc phiêu lưu"
+        },
+        {
+          "id": 3,
+          "icon": "fas fa-utensils",
+          "h3": "Dịch vụ ăn uống"
+        },
+        {
+          "id": 4,
+          "icon": "fas fa-hotel",
+          "h3": "Nghỉ dưỡng cao cấp"
+        },
+        {
+          "id": 5,
+          "icon": "fas fa-wallet",
+          "h3": "Mức giá tốt nhất"
+        },
+        {
+          "id": 6,
+          "icon": "fas fa-headset",
+          "h3": "Hỗ trợ 24/7"
+        }
+      ],
+      "Services": {
+        "content": "Dịch vụ",
+        "title": "Nâng cao trải nghiệm"
+      },
+      "galleryBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-1.jpg",
+          "span": "huyện lỵ Mường Khương 12 km, họp vào thứ 5 hàng tuần",
+          "h3": "Chợ Phiên Lùng Khấu Nhin"
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-2.jpg",
+          "span": "Chợ phiên Cán Cấu họp vào thứ bảy hàng tuần",
+          "h3": "Chợ Phiên Cán Cấu"
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-3.jpg",
+          "span": "đa số người đến đây để vui chơi và kết bạn",
+          "h3": " Chợ Phiên Bắc Hà"
+        },
+        {
+          "id": 4,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-4.jpg",
+          "span": "Vẻ đẹp hoang sơ kết hợp với vẻ đẹp của các tiểu cảnh",
+          "h3": "Núi Hàm Rồng"
+        },
+        {
+          "id": 5,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-5.jpg",
+          "span": "dấu ấn kiến trúc cổ toàn vẹn nhất của người Pháp",
+          "h3": "Nhà Thờ Đá"
+        },
+        {
+          "id": 6,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-6.jpg",
+          "span": "Được tạo thành từ những sợi dây mây kết nối vững chắc",
+          "h3": "Cầu Mây"
+        },
+        {
+          "id": 7,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-7.jpg",
+          "span": "Fanxipan là ngọn núi cao nhất bán đảo Đông Dương",
+          "h3": "Fanxipan"
+        },
+        {
+          "id": 8,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-8.jpg",
+          "span": "một bức tranh thiên nhiên được tạo hoá tạo nên giữa chốn bình yên",
+          "h3": "Thung Lũng Mường Hoa"
+        },
+        {
+          "id": 9,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-9.jpg",
+          "span": "Xếp thứ nhì Việt Nam về độ cao, chỉ đứng sau đỉnh Fanxipan",
+          "h3": "Ngũ Chỉ Sơn"
+        }
+      ],
+      "Gallery": {
+        "content": "những bức Ảnh về Lào Cai"
+      },
+      "blogBox": [
+        {
+          "id": 1,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/blog-1.jpg",
+          "a": "Mang những gì khi đi Lào Cai",
+          "p": "Giấy tờ tuỳ thân, trang phục ấm, đồ dùng cá nhân, balo, túi đựng đồ..."
+        },
+        {
+          "id": 2,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/blog-2.jpg",
+          "a": "Cần chú ý gì khi đi Lào Cai",
+          "p": "Thành phố Lào Cai có địa khá cao. vậy nên bạn cần mang theo quần áo dài, ấm phòng khi trời trở lạnh..."
+        },
+        {
+          "id": 3,
+          "src": "https://apiforstravel.herokuapp.com/images/Laocai/blog-3.jpg",
+          "a": "Phương tiện di chuyển",
+          "p": "bạn có thể đi xe bus, tàu lửa, hoặc thú vị hơn có thể cưỡi ngựa ..."
+        }
+      ],
+      "Blog": {
+        "content": "blogs & posts",
+        "title": "Tìm hiểu thêm về England"
+      },
+      "ReviewBox": [
+        {
+          "id": 1,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 2,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 3,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
+          "h3": "Some text..."
+        },
+        {
+          "id": 4,
+          "p": "Some test",
+          "src": "https://apiforstravel.herokuapp.com/images/England/pic-1.png",
           "h3": "Some text..."
         }
       ],
@@ -2087,7 +2296,7 @@
       { "id": 10, "className": "", "text": "I" }
     ],
     "bookSelect": [
-      { "id": 1, "defaultValue": "Việt Nam" },
+      { "id": 1, "defaultValue": "Lào Cai" },
       { "id": 2, "defaultValue": "Ai Cập" },
       { "id": 3, "defaultValue": "Mỹ" },
       { "id": 4, "defaultValue": "Ấn Độ" },
@@ -2831,6 +3040,193 @@
       {
         "id": 9,
         "src": "https://apiforstravel.herokuapp.com/images/Tokyo/gallery-img-9.jpg"
+      }
+    ],
+    "LaocaiHeading": [
+      { "id": 1, "text": "L", "className": "" },
+      { "id": 2, "text": "A", "className": "" },
+      { "id": 3, "text": "O", "className": "" },
+      { "id": 4, "text": "", "className": "space" },
+      { "id": 5, "text": "C", "className": "" },
+      { "id": 6, "text": "A", "className": "" },
+      { "id": 7, "text": "I", "className": "" }
+    ],
+    "Laocailink": "/laocai",
+    "LaocaiBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Laocai/gallery-img-9.jpg"
+      }
+    ],
+    "RussiaHeading": [
+      { "id": 1, "text": "R", "className": "" },
+      { "id": 2, "text": "U", "className": "" },
+      { "id": 3, "text": "S", "className": "" },
+      { "id": 4, "text": "S", "className": "" },
+      { "id": 5, "text": "I", "className": "" },
+      { "id": 6, "text": "A", "className": "" }
+    ],
+    "Russialink": "/russia",
+    "RussiaBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/Russia/gallery-img-9.jpg"
+      }
+    ],
+    "ChinaHeading": [
+      { "id": 1, "text": "C", "className": "" },
+      { "id": 2, "text": "H", "className": "" },
+      { "id": 3, "text": "I", "className": "" },
+      { "id": 4, "text": "N", "className": "" },
+      { "id": 5, "text": "A", "className": "" }
+    ],
+    "Chinalink": "/china",
+    "ChinaBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/China/gallery-img-9.jpg"
+      }
+    ],
+    "EnglandHeading": [
+      { "id": 1, "text": "C", "className": "" },
+      { "id": 2, "text": "H", "className": "" },
+      { "id": 3, "text": "I", "className": "" },
+      { "id": 4, "text": "N", "className": "" },
+      { "id": 5, "text": "A", "className": "" }
+    ],
+    "Englandlink": "/england",
+    "EnglandBox": [
+      {
+        "id": 1,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-1.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-2.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-3.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-4.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-5.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-6.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-7.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-8.jpg"
+      },
+      {
+        "id": 9,
+        "src": "https://apiforstravel.herokuapp.com/images/England/gallery-img-9.jpg"
       }
     ]
   }
